@@ -27,8 +27,8 @@ def clean_name(name):
     if pd.isna(name):
         return ""
     name = str(name).lower().strip()
-    name = re.sub(r'\b(ltd|limited|plc|co|corp|inc|gmbh|uk|holding|holdings)\b', '', name)
-    name = re.sub(r'[^a-z0-9\s]', '', name)
+    name = re.sub(r'\\b(ltd|limited|plc|co|corp|inc|gmbh|uk|holding|holdings)\\b', '', name)
+    name = re.sub(r'[^a-z0-9\\s]', '', name)
     return " ".join(name.split())
 
 def normalize_email(email):
@@ -59,9 +59,9 @@ def run_pipeline(input_dir, output_dir, as_of_date_str, run_id):
     crm_df = connector.read_table('crm_entries.csv')
 
     # Standardize data quality validations & metrics
-    sites_df['mpan_clean'] = sites_df['mpan'].astype(str).str.replace(r'\D', '', regex=True)
+    sites_df['mpan_clean'] = sites_df['mpan'].astype(str).str.replace(r'\\D', '', regex=True)
     sites_df['is_mpan_valid'] = sites_df['mpan_clean'].str.len() == 13
-    quotes_df['mpan_clean'] = quotes_df['mpan'].astype(str).str.replace(r'\D', '', regex=True)
+    quotes_df['mpan_clean'] = quotes_df['mpan'].astype(str).str.replace(r'\\D', '', regex=True)
 
     total_mpans = len(sites_df)
     invalid_mpan_count = int((~sites_df['is_mpan_valid']).sum())
@@ -132,9 +132,21 @@ def run_pipeline(input_dir, output_dir, as_of_date_str, run_id):
     ).reset_index()
 
     final_decision_register = predictive_df.merge(cust_renewal_info, on='account_ref', how='left')
-    final_decision_register['in_renewal_scope'] = final_decision_register['min_days_to_renewal'] <= 90
+
+    # --- START OF CHANGE: Incorporate 'Likely to Sign' logic ---
+    final_decision_register['standard_renewal_scope'] = final_decision_register['min_days_to_renewal'] <= 90
+
+    final_decision_register['likely_to_sign_trigger'] = (
+        (final_decision_register['avg_nps'] >= 8) &
+        (final_decision_register['churn_risk_score'] < 50) &
+        (~final_decision_register['has_invalid_mpan'])
+    )
+
+    final_decision_register['in_renewal_scope'] = final_decision_register['standard_renewal_scope'] | final_decision_register['likely_to_sign_trigger']
+    # --- END OF CHANGE ---
 
     def determine_action(row):
+        # Use the updated 'in_renewal_scope'
         if not row['in_renewal_scope']:
             return 'nurture' if row['is_high_risk'] else 'no action'
         if row['is_high_risk'] or row['has_invalid_mpan']:
