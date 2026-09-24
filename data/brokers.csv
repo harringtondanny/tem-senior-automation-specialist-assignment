@@ -1,0 +1,36 @@
+broker_id,broker_name,tier,partner_manager,avg_response_days
+BRK-001,Fairfield Energy Partners,Gold,Ryan Mercer,4
+BRK-002,Compass Utilities,Platinum,Anita Nowak,2
+BRK-003,Brightline Brokers,Silver,Freya Bright,4
+BRK-004,Halcyon Energy Advisory,Platinum,Tara Hansen,1
+BRK-005,Peak & Vale Consulting,Platinum,Rhys MacLeod,3
+BRK-006,Meridian Cost Management,Gold,Nadia MacLeod,4
+BRK-007,Stonebridge Energy,Silver,Tom Kaur,4
+BRK-008,Arden Utility Group,Silver,Chloe Frost,5
+BRK-009,Beacon Procurement,Gold,Oliver Yates,3
+BRK-010,Calder Energy Services,Silver,Jack Nowak,6
+BRK-011,Drummond & Co,Silver,Emily Keane,4
+BRK-012,Elmsleigh Advisory,Silver,Aisha Yates,4
+BRK-013,Foresight Utilities,Silver,Omar Voss,5
+BRK-014,Granta Energy Brokers,Bronze,Noel Quinn,8
+BRK-015,Harrier Cost Consultants,Gold,Jack Doyle,2
+BRK-016,Islefield Partners,Silver,Lewis Sharpe,5
+BRK-017,Juniper Procurement,Silver,Grace Hansen,4
+BRK-018,Kite Energy Advisory,Silver,Fatima Iqbal,4
+BRK-019,Lanyon Utilities,Bronze,Tara Patel,9
+BRK-020,Morecombe Energy,Platinum,Craig Yates,2
+BRK-021,Netherby & Associates,Gold,Holly Sharpe,4
+BRK-022,Oakden Brokers,Bronze,Aisha Brooke,8
+BRK-023,Pintail Energy,Silver,Aisha MacLeod,6
+BRK-024,Quill Procurement,Silver,Paula Pryce,5
+BRK-025,Rushmore Utilities,Silver,Holly Okafor,5
+BRK-026,Skerry Energy Partners,Gold,Gareth Reid,3
+BRK-027,Thornden Advisory,Platinum,Grace Chowdhury,3
+BRK-028,Umber Energy Group,Gold,Ewan Sharpe,2
+BRK-029,Vellum Cost Management,Gold,Ewan Wren,3
+BRK-030,Wainfleet Brokers,Bronze,Rhys Wren,8
+BRK-031,Yaxley Energy,Silver,Holly Lomax,4
+BRK-032,Zeal Procurement,Gold,Jack Sutton,2
+BRK-033,Ashdown Utility Partners,Silver,Sarah Sharpe,6
+BRK-034,Bickerton Energy,Gold,Grace Whitfield,2
+BRK-035,Croft & Marlow,Silver,Ben Yates,5

@@ -1,0 +1,837 @@
+ticket_id,date,channel,raised_by,topic,sentiment,resolved,csat_1_5
+SVC-30815,2025-12-28,Email,sarah.chowdhury@ivybridgedairy.co.uk,Billing dispute,Negative,No,
+SVC-30201,2026-04-02,Email,tara.patel@kestrelveterin.co.uk,Billing dispute,Neutral,Yes,3
+SVC-30624,2025-04-24,Email,stefan.underhill@penninepackagi.co.uk,Payment failed,Neutral,Yes,1
+SVC-30758,2025-05-04,Email,tom.patel@farrierdataroo.co.uk,Praise - support experience,Positive,Yes,5
+SVC-30170,2026-01-10,Phone,peter.nowak@nettlebedveter.co.uk,Portal login issue,Positive,Yes,5
+SVC-30106,28/04/2026,Chat,Bexley Cold Storage Holdings,Praise - support experience,Positive,Yes,
+SVC-30385,2026-08-05,Phone,craig.nowak@gildedstudios.co.uk,Renewal question,Neutral,Yes,
+SVC-30698,30/03/2025,Phone,oliver.yates@applegarthscho.co.uk,Billing dispute,Neutral,Yes,
+SVC-30514,22/11/2025,Email,paula.underhill@jarrowcatering.co.uk,Renewal question,Neutral,Yes,5
+SVC-30801,2026-03-05,Email,Cedar Studios Holdings,Complaint - response time,Neutral,Yes,3
+SVC-30415,2025-12-08,Chat,Cedar Precision (UK) Ltd,Praise - support experience,Positive,Yes,
+SVC-30501,2026-06-08,Email,gareth.ferris@ivybridgepadel.co.uk,Praise - support experience,Positive,Yes,
+SVC-30635,2026-01-06,Phone,ewan.vance@cobaltpadel.co.uk,Contract copy request,Neutral,Yes,
+SVC-30560,2025-12-19,Phone,Langmere Garden & Sons,Meter read query,Neutral,No,3
+SVC-30120,13/07/2026,Email,Pennine Kennels Limited,Praise - support experience,Positive,Yes,
+SVC-30747,2025-04-02,Email,nadia.mercer@quaysidetannin.co.uk,Renewal question,Negative,No,4
+SVC-30395,2025-04-26,Email,Yarrow Print Ltd,Contract copy request,Negative,Yes,5
+SVC-30053,2025-08-04,Email,Cobalt Cold Storage Co,Portal login issue,Positive,No,4
+SVC-30365,18/06/2025,Email,priya.tate@whitethorncold.co.uk,Billing dispute,Neutral,Yes,4
+SVC-30667,2026-08-25,Chat,freya.macleod@quarringtonpla.co.uk,Portal login issue,Neutral,Yes,5
+SVC-30589,2025-07-13,Phone,amber.underhill@elmwoodtimber.co.uk,Billing dispute,Negative,Yes,
+SVC-30820,29/09/2025,Email,omar.ellison@kestrelicecrea.co.uk,Meter read query,Neutral,Yes,4
+SVC-30810,2025-11-13,Email,stefan.sutton@foxgloveseafoo.co.uk,Meter read query,Neutral,Yes,4
+SVC-30790,07/06/2025,Email,craig.yates@eastbrookoptic.co.uk,Portal login issue,Positive,Yes,
+SVC-30291,25/05/2026,Phone,Ivybridge Roofing Partners,Onboarding query,Neutral,No,
+SVC-30722,20/05/2026,Chat,Ingleby Hotels & Sons,Payment failed,Neutral,Yes,
+SVC-30165,13/06/2025,Email,tom.lomax@denholmlogisti.co.uk,Onboarding query,Positive,No,3
+SVC-30445,2026-06-04,Email,craig.rowntree@lighthousefabr.co.uk,Meter read query,Neutral,No,5
+SVC-30342,17/08/2025,Email,peter.yates@jespersenmarin.co.uk,Billing dispute,Negative,Yes,1
+SVC-30528,2025-07-18,Email,Zetland Distillery Holdings,Meter read query,Negative,Yes,4
+SVC-30566,2026-04-19,Chat,Quayside Aggregates Ltd,Portal login issue,Neutral,Yes,
+SVC-30304,19/02/2026,Chat,lucy.hale@cedarcatering.co.uk,Praise - support experience,Positive,Yes,4
+SVC-30055,2026-06-06,Chat,anita.kaur@bexleyfabricat.co.uk,Praise - support experience,Positive,Yes,4
+SVC-30236,06/09/2025,Email,lewis.jennings@hatherleymotor.co.uk,Contract copy request,Negative,Yes,5
+SVC-30313,07/06/2026,Phone,iona.underhill@marlowprecisio.co.uk,Portal login issue,Neutral,Yes,5
+SVC-30524,2026-07-02,Email,dev.vance@ivybridgeoptic.co.uk,Praise - support experience,Positive,No,3
+SVC-30787,2025-04-21,Phone,Ellerton Optics Group,Onboarding query,Neutral,Yes,3
+SVC-30730,08/12/2025,Chat,Elmwood Seafoods Ltd,Billing dispute,Negative,Yes,
+SVC-30513,06/07/2025,Phone,sarah.okafor@saltmarshoptic.co.uk,Complaint - response time,Negative,Yes,2
+SVC-30154,2026-08-31,Phone,rhys.lomax@marlowseafoods.co.uk,Payment failed,Negative,Yes,
+SVC-30124,05/10/2025,Chat,Eastbrook Offices Ltd,Renewal question,Negative,Yes,5
+SVC-30816,2026-07-11,Email,Fernhill Cold Storage Partners,Billing dispute,Negative,Yes,4
+SVC-30299,31/01/2026,Email,Vantage Plastics Co,Praise - support experience,Positive,Yes,
+SVC-30262,2025-09-15,Email,gareth.jennings@silverbeckhote.co.uk,Portal login issue,Positive,Yes,2
+SVC-30302,27/12/2025,Email,Cedar Catering Ltd,Portal login issue,Neutral,No,4
+SVC-30682,2025-09-30,Email,Nettlebed Padel & Sons,Renewal question,Positive,Yes,
+SVC-30751,23/03/2026,Email,fatima.sutton@ullswatermotor.co.uk,Billing dispute,Neutral,Yes,1
+SVC-30729,2026-05-04,Chat,nadia.patel@vantagecinemas.co.uk,Praise - support experience,Positive,Yes,4
+SVC-30329,28/12/2025,Phone,tara.macleod@atlasgym.co.uk,Meter read query,Neutral,Yes,5
+SVC-30653,2026-03-09,Phone,Verity Laundry Holdings,Payment failed,Negative,Yes,5
+SVC-30602,2026-05-16,Chat,dev.tate@northgatechand.co.uk,Billing dispute,Negative,Yes,
+SVC-30780,2025-04-27,Email,Ottershaw Milling Partners,Praise - support experience,Positive,Yes,3
+SVC-30098,09/04/2025,Phone,sanjay.nairn@merrivaletimbe.co.uk,Portal login issue,Neutral,No,
+SVC-30295,2025-10-06,Phone,freya.rowntree@applegarthcare.co.uk,Billing dispute,Negative,Yes,2
+SVC-30221,01/01/2026,Phone,Wrenfield Farm Foods (UK) Ltd,Meter read query,Positive,Yes,
+SVC-30376,2026-05-01,Chat,anita.okafor@bramblecinemas.co.uk,Meter read query,Neutral,Yes,4
+SVC-30476,2026-02-27,Phone,nadia.patel@stanhopemillin.co.uk,Praise - support experience,Positive,Yes,
+SVC-30769,2026-04-25,Email,nadia.sutton@tanfieldaggreg.co.uk,HHD data access,Neutral,Yes,4
+SVC-30054,2025-10-15,Phone,iona.pryce@torqueaquatics.co.uk,Praise - support experience,Positive,Yes,
+SVC-30554,11/06/2026,Phone,Farrier Upholstery Ltd,Meter read query,Positive,No,5
+SVC-30203,11/08/2025,Email,Stanhope Joinery Co,Complaint - response time,Neutral,Yes,2
+SVC-30000,2025-12-10,Phone,emily.okafor@tredegarmaltin.co.uk,Complaint - response time,Negative,No,
+SVC-30315,17/12/2025,Chat,Cranleigh Studios Holdings,Complaint - response time,Neutral,Yes,
+SVC-30471,2025-09-11,Email,Ivybridge Pharmacy,Complaint - response time,Negative,Yes,3
+SVC-30105,2026-02-20,Email,callum.kaur@redwingplastic.co.uk,Meter read query,Negative,Yes,2
+SVC-30288,2025-07-29,Phone,oliver.sharpe@northgateschoo.co.uk,Billing dispute,Negative,Yes,1
+SVC-30411,24/08/2025,Email,Riverbank Garden Ltd,Renewal question,Positive,Yes,4
+SVC-30402,2026-02-14,Phone,anita.whitfield@riverbankforge.co.uk,Renewal question,Neutral,No,4
+SVC-30434,01/12/2025,Chat,priya.okafor@tanfieldseafoo.co.uk,Payment failed,Negative,Yes,
+SVC-30683,07/05/2025,Phone,Wrenfield Fabrications Group,Billing dispute,Negative,Yes,2
+SVC-30716,2025-06-24,Email,amber.okafor@fernhillstudio.co.uk,Portal login issue,Neutral,Yes,
+SVC-30558,18/12/2025,Phone,zara.reid@zephyrdataroom.co.uk,Renewal question,Neutral,Yes,
+SVC-30397,2026-08-11,Email,iona.ellison@halewoodroboti.co.uk,Complaint - response time,Negative,No,1
+SVC-30755,2026-07-03,Email,Ottershaw Forge Limited,Praise - support experience,Positive,Yes,5
+SVC-30331,2026-08-23,Chat,priya.nairn@halewoodaquati.co.uk,Meter read query,Negative,Yes,
+SVC-30782,2025-05-01,Phone,Selworthy Leisure Group,Billing dispute,Negative,Yes,
+SVC-30626,2025-04-10,Email,emily.wren@hollybushkenne.co.uk,Meter read query,Positive,Yes,5
+SVC-30297,25/09/2025,Email,Kelbrook Distillery Partners,Contract copy request,Negative,Yes,5
+SVC-30086,2025-09-30,Phone,Jarrow Offices Ltd,Complaint - response time,Neutral,Yes,
+SVC-30007,2025-06-21,Phone,sanjay.voss@silverbeckpade.co.uk,Renewal question,Neutral,Yes,
+SVC-30760,19/04/2026,Email,Quayside Ice Cream Limited,Complaint - response time,Negative,Yes,
+SVC-30631,2025-11-17,Email,emily.osei@ullswatericecr.co.uk,Contract copy request,Positive,Yes,
+SVC-30723,03/06/2026,Phone,sarah.macleod@inglebyhotels.co.uk,Renewal question,Neutral,Yes,
+SVC-30034,28/05/2025,Email,freya.doyle@queningtonaggr.co.uk,Billing dispute,Negative,Yes,2
+SVC-30712,2025-11-01,Phone,stefan.sutton@millpondroofin.co.uk,Complaint - response time,Negative,Yes,3
+SVC-30412,07/07/2026,Chat,Orchard Salvage (UK) Ltd,Portal login issue,Neutral,No,5
+SVC-30634,24/05/2025,Chat,tom.hansen@denholmpadel.co.uk,Portal login issue,Positive,No,
+SVC-30728,28/08/2025,Email,fatima.rowntree@ottershawjoine.co.uk,Renewal question,Neutral,Yes,5
+SVC-30585,14/04/2025,Chat,lewis.mercer@kestrelcare.co.uk,Payment failed,Neutral,Yes,
+SVC-30296,17/07/2025,Phone,Ashcombe Tanning,Renewal question,Neutral,Yes,
+SVC-30618,2026-04-15,Phone,Ellerton Recycling Ltd,Contract copy request,Neutral,Yes,5
+SVC-30356,17/09/2025,Chat,Saltmarsh Gym Ltd,Contract copy request,Neutral,Yes,5
+SVC-30456,2026-01-01,Phone,holly.pryce@millpondgym.co.uk,Onboarding query,Neutral,Yes,
+SVC-30150,2026-05-13,Email,Applegarth Ice Cream Partners,HHD data access,Neutral,Yes,4
+SVC-30387,23/05/2026,Email,Ellerton Marine Group,Complaint - response time,Negative,Yes,
+SVC-30661,2025-10-26,Email,Tredegar Studios,Praise - support experience,Positive,Yes,5
+SVC-30186,13/05/2025,Chat,Lowther Bookbinders Co,Onboarding query,Negative,Yes,5
+SVC-30362,24/12/2025,Phone,Tanfield Farm Foods,Payment failed,Negative,Yes,
+SVC-30746,26/08/2026,Email,Quayside Tanning,Complaint - response time,Negative,Yes,
+SVC-30586,15/10/2025,Chat,marcus.okafor@ullswaterresta.co.uk,Billing dispute,Neutral,Yes,3
+SVC-30432,18/04/2026,Chat,oliver.okafor@nettlebedgalva.co.uk,Praise - support experience,Positive,Yes,5
+SVC-30807,07/02/2026,Email,emily.chowdhury@kestrelmalting.co.uk,Praise - support experience,Positive,Yes,
+SVC-30735,16/11/2025,Phone,peter.chowdhury@birchmoorcinem.co.uk,Billing dispute,Negative,Yes,
+SVC-30348,18/02/2026,Chat,tara.quinn@oakhurstlaundr.co.uk,Payment failed,Negative,Yes,
+SVC-30449,19/03/2026,Email,chloe.sharpe@harborneleisur.co.uk,Meter read query,Negative,Yes,4
+SVC-30003,27/03/2026,Email,Saltmarsh Tanning Ltd,Renewal question,Neutral,Yes,
+SVC-30688,16/03/2025,Email,Hatherley Timber Partners,HHD data access,Neutral,Yes,5
+SVC-30473,20/06/2026,Email,zara.sutton@birchmoornurse.co.uk,Meter read query,Positive,Yes,
+SVC-30564,06/01/2026,Email,Zetland Padel Holdings,Onboarding query,Negative,Yes,
+SVC-30636,2025-10-02,Email,stefan.whitfield@rosedalesalvag.co.uk,Renewal question,Neutral,Yes,4
+SVC-30268,2026-01-07,Phone,Northgate Care Ltd,Renewal question,Neutral,Yes,4
+SVC-30073,2026-02-11,Chat,Ironbridge Leisure & Sons,Praise - support experience,Positive,Yes,4
+SVC-30753,2025-07-13,Email,Wrenfield Engineering,Payment failed,Negative,Yes,3
+SVC-30216,2025-07-31,Chat,Yarrow Upholstery Ltd,Meter read query,Neutral,Yes,4
+SVC-30757,30/09/2025,Chat,fatima.quinn@fernhillseafoo.co.uk,Payment failed,Negative,Yes,2
+SVC-30147,2025-08-29,Phone,Maplin Robotics Co,Billing dispute,Negative,Yes,
+SVC-30283,2025-12-24,Email,zara.vance@whitethornvete.co.uk,Praise - support experience,Positive,No,5
+SVC-30405,2026-04-04,Email,zara.underhill@whitethorncine.co.uk,Contract copy request,Positive,No,5
+SVC-30505,2025-03-19,Email,Ivybridge Dairy Partners,Payment failed,Neutral,Yes,1
+SVC-30827,2026-02-15,Chat,tom.doyle@yarrowplastics.co.uk,Payment failed,Negative,No,
+SVC-30732,06/07/2026,Email,Northgate Joinery Partners,Praise - support experience,Positive,Yes,
+SVC-30708,2026-03-30,Phone,megan.iqbal@ottershawaggre.co.uk,Billing dispute,Negative,Yes,3
+SVC-30791,2025-11-28,Phone,craig.yates@eastbrookoptic.co.uk,Portal login issue,Negative,No,4
+SVC-30252,02/05/2025,Chat,Northgate Packaging Ltd,Meter read query,Neutral,Yes,4
+SVC-30193,2026-03-24,Email,Pennine Salvage Ltd,Meter read query,Positive,No,5
+SVC-30322,27/08/2026,Email,ewan.macleod@norburytanning.co.uk,Complaint - response time,Negative,No,3
+SVC-30575,2026-07-27,Email,Lowther Laundry Partners,Praise - support experience,Positive,Yes,4
+SVC-30404,27/05/2025,Phone,lucy.grady@bluewaterforge.co.uk,Portal login issue,Negative,Yes,4
+SVC-30433,14/03/2025,Phone,Pemberley Optics,Payment failed,Neutral,No,1
+SVC-30188,13/08/2026,Phone,gareth.tate@hollybushrobot.co.uk,Praise - support experience,Positive,No,
+SVC-30330,2025-05-15,Chat,Kingsmead Optics,Renewal question,Negative,Yes,5
+SVC-30605,2025-07-07,Phone,james.hansen@yewtreeplastic.co.uk,Praise - support experience,Positive,Yes,
+SVC-30355,28/03/2026,Email,Thackery Marine Co,Contract copy request,Neutral,Yes,5
+SVC-30231,30/05/2025,Chat,dev.mercer@riverbankforge.co.uk,HHD data access,Neutral,Yes,3
+SVC-30437,2026-07-12,Phone,rhys.lomax@millpondkennel.co.uk,Portal login issue,Neutral,Yes,5
+SVC-30616,25/08/2026,Email,Umberside Optics Group,Complaint - response time,Negative,Yes,
+SVC-30798,19/06/2025,Chat,peter.ogden@halewoodbookbi.co.uk,Billing dispute,Negative,Yes,3
+SVC-30145,2025-12-18,Chat,Pemberley Aggregates Group,Billing dispute,Negative,Yes,1
+SVC-30784,01/02/2026,Email,Riverbank Dairy Limited,Onboarding query,Negative,Yes,
+SVC-30743,05/03/2026,Email,Ingleby Schools Holdings,HHD data access,Positive,Yes,4
+SVC-30410,2025-06-26,Email,chloe.whitfield@zetlandbookbin.co.uk,Portal login issue,Neutral,Yes,5
+SVC-30785,2026-05-11,Chat,Merrivale Farm Foods Ltd,Billing dispute,Neutral,Yes,4
+SVC-30209,2026-03-30,Email,Lighthouse Scaffolding Limited,Complaint - response time,Neutral,Yes,
+SVC-30544,20/11/2025,Email,ben.ferris@silverbeckcare.co.uk,HHD data access,Negative,Yes,4
+SVC-30306,15/12/2025,Email,Ashcombe Maltings Limited,Contract copy request,Neutral,Yes,4
+SVC-30593,2026-05-04,Email,megan.whitfield@millpondaquati.co.uk,Meter read query,Neutral,No,3
+SVC-30066,2025-10-10,Chat,sarah.keane@zetlandsalvage.co.uk,Praise - support experience,Positive,Yes,4
+SVC-30485,2025-07-19,Email,Birchmoor Optics Limited,Billing dispute,Negative,Yes,1
+SVC-30254,25/09/2025,Email,amber.osei@tredegarleisur.co.uk,Meter read query,Neutral,No,
+SVC-30171,2025-12-01,Email,Birchmoor Marine Holdings,HHD data access,Positive,Yes,3
+SVC-30823,05/12/2025,Email,ben.rowntree@verityscaffold.co.uk,Praise - support experience,Positive,Yes,4
+SVC-30249,06/07/2026,Email,Quenington Offices Holdings,Meter read query,Neutral,Yes,5
+SVC-30198,2025-05-10,Email,fatima.yates@marlowengineer.co.uk,Contract copy request,Neutral,Yes,4
+SVC-30239,05/04/2026,Chat,Langmere Recycling Ltd,Praise - support experience,Positive,Yes,5
+SVC-30763,2026-04-21,Chat,Ashcombe Seafoods Ltd,Meter read query,Negative,Yes,4
+SVC-30822,2025-08-27,Email,ben.rowntree@verityscaffold.co.uk,Contract copy request,Neutral,Yes,5
+SVC-30596,18/12/2025,Email,craig.lomax@torquebookbind.co.uk,Praise - support experience,Positive,Yes,4
+SVC-30269,2025-07-20,Phone,freya.tate@northgatecare.co.uk,Portal login issue,Neutral,Yes,
+SVC-30001,2025-08-16,Email,Saltmarsh Tanning Ltd,Praise - support experience,Positive,Yes,5
+SVC-30075,2025-07-18,Email,Yewtree Restaurants Ltd,Onboarding query,Positive,Yes,1
+SVC-30347,12/04/2025,Phone,Bluewater Restaurants Co,Praise - support experience,Positive,Yes,
+SVC-30592,2025-09-28,Phone,Bramble Upholstery Ltd,Praise - support experience,Positive,No,4
+SVC-30301,08/01/2026,Chat,Stanhope Pharmacy Holdings,HHD data access,Positive,No,
+SVC-30441,05/07/2026,Phone,Pennine Foundry Co,Payment failed,Negative,Yes,3
+SVC-30219,06/02/2026,Phone,james.ferris@cedarstudios.co.uk,Complaint - response time,Negative,No,4
+SVC-30655,2025-05-31,Phone,sanjay.doyle@zephyrtanning.co.uk,Billing dispute,Neutral,No,
+SVC-30583,2026-08-11,Email,sarah.ferris@stanhopemarine.co.uk,Praise - support experience,Positive,Yes,
+SVC-30031,2025-04-27,Email,craig.underhill@brambleroofing.co.uk,HHD data access,Neutral,Yes,5
+SVC-30484,2026-05-05,Chat,Summerton Scaffolding & Sons,Praise - support experience,Positive,No,
+SVC-30800,2026-02-24,Email,callum.underhill@wrenfieldschoo.co.uk,Contract copy request,Neutral,Yes,
+SVC-30672,02/06/2026,Email,james.ferris@whitethorngard.co.uk,Billing dispute,Negative,Yes,3
+SVC-30666,07/02/2026,Email,Quarrington Plastics (UK) Ltd,Portal login issue,Positive,Yes,4
+SVC-30483,2025-04-07,Email,Farrier Chandlery Group,Meter read query,Positive,Yes,
+SVC-30317,2026-02-20,Chat,aisha.yates@norburycaterin.co.uk,Complaint - response time,Negative,Yes,3
+SVC-30204,2025-03-21,Chat,Stanhope Schools Co,Meter read query,Neutral,No,
+SVC-30153,2026-05-22,Chat,Wrenfield Marine (UK) Ltd,Portal login issue,Neutral,No,3
+SVC-30243,2026-08-24,Chat,Kingsmead Timber,Meter read query,Negative,Yes,
+SVC-30379,2026-01-19,Chat,Ivybridge Scaffolding Co,Contract copy request,Neutral,Yes,4
+SVC-30103,2025-07-13,Email,Stanhope Forge (UK) Ltd,Payment failed,Negative,Yes,1
+SVC-30761,2026-01-13,Email,Ironbridge Bookbinders Holdings,Praise - support experience,Positive,No,4
+SVC-30665,2025-05-06,Phone,Quarrington Plastics (UK) Ltd,Complaint - response time,Negative,No,2
+SVC-30043,2025-08-04,Phone,lewis.bright@northgaterobot.co.uk,Praise - support experience,Positive,Yes,2
+SVC-30017,20/04/2025,Email,Tredegar Print Ltd,Meter read query,Positive,Yes,5
+SVC-30668,08/08/2026,Phone,Northgate Glassworks & Sons,Complaint - response time,Neutral,Yes,
+SVC-30010,2026-01-30,Email,Caldwell Offices Co,Billing dispute,Neutral,Yes,
+SVC-30629,04/03/2026,Chat,Eastbrook Distillery (UK) Ltd,Meter read query,Neutral,Yes,3
+SVC-30707,11/10/2025,Email,megan.iqbal@ottershawaggre.co.uk,Praise - support experience,Positive,Yes,
+SVC-30648,2025-05-18,Chat,Westcliff Aggregates & Sons,Payment failed,Negative,Yes,3
+SVC-30643,2025-10-22,Chat,Kingsmead Print Holdings,Renewal question,Neutral,Yes,
+SVC-30658,14/08/2026,Phone,emily.frost@redwingglasswo.co.uk,Payment failed,Neutral,No,3
+SVC-30227,2025-10-29,Phone,gareth.osei@exmoorfarmfood.co.uk,Payment failed,Negative,Yes,2
+SVC-30548,05/02/2026,Email,paula.reid@jarrowmotors.co.uk,Onboarding query,Negative,Yes,4
+SVC-30191,18/06/2025,Chat,Ingleby Print Group,Billing dispute,Negative,Yes,
+SVC-30210,2025-03-21,Chat,Yarrow Bookbinders Limited,Payment failed,Negative,Yes,4
+SVC-30440,10/10/2025,Email,emily.kaur@penninefoundry.co.uk,Billing dispute,Negative,Yes,
+SVC-30272,26/05/2025,Email,Verity Kennels Holdings,HHD data access,Neutral,Yes,5
+SVC-30651,29/07/2026,Chat,Silverbeck Optics Ltd,Payment failed,Negative,Yes,2
+SVC-30336,2025-08-04,Email,Farrier Restaurants (UK) Ltd,Billing dispute,Negative,Yes,3
+SVC-30834,10/02/2026,Chat,priya.doyle@violettadataro.co.uk,Contract copy request,Neutral,Yes,4
+SVC-30662,15/06/2026,Chat,nia.brooke@tredegarstudio.co.uk,Billing dispute,Negative,Yes,
+SVC-30141,2025-07-11,Email,Verity Farm Foods Partners,Contract copy request,Negative,Yes,4
+SVC-30549,2025-12-20,Phone,Cobalt Care Ltd,Praise - support experience,Positive,Yes,
+SVC-30646,2026-07-10,Phone,Bramble Timber Ltd,Portal login issue,Positive,Yes,5
+SVC-30298,2026-08-08,Chat,Padstow Textiles & Sons,Payment failed,Neutral,Yes,
+SVC-30143,16/11/2025,Chat,Marlow Timber Co,Billing dispute,Neutral,Yes,2
+SVC-30213,30/12/2025,Email,Langmere Nurseries Group,Praise - support experience,Positive,No,4
+SVC-30754,19/05/2025,Email,Wrenfield Engineering,Billing dispute,Negative,Yes,
+SVC-30500,2025-10-28,Phone,Yewtree Cinemas Ltd,Onboarding query,Neutral,Yes,5
+SVC-30157,06/06/2026,Email,Cranleigh Pharmacy Limited,Praise - support experience,Positive,No,3
+SVC-30321,2026-06-13,Email,Dunmore Offices & Sons,Onboarding query,Neutral,Yes,
+SVC-30097,2025-07-30,Phone,Quenington Maltings & Sons,Portal login issue,Neutral,No,3
+SVC-30773,2026-05-23,Email,Umberside Milling & Sons,Portal login issue,Neutral,Yes,3
+SVC-30710,20/04/2026,Email,grace.pryce@bexleyicecream.co.uk,Payment failed,Negative,Yes,
+SVC-30303,19/04/2025,Email,lucy.hale@cedarcatering.co.uk,Renewal question,Positive,Yes,4
+SVC-30114,27/01/2026,Phone,Oakhurst Roofing Holdings,Complaint - response time,Neutral,Yes,3
+SVC-30061,10/03/2025,Chat,Ellerton Precision Partners,Praise - support experience,Positive,Yes,4
+SVC-30127,14/03/2026,Email,gareth.nairn@caldwellgalvan.co.uk,Payment failed,Negative,Yes,2
+SVC-30671,2025-11-03,Email,Quayside Care Ltd,Payment failed,Neutral,No,
+SVC-30468,2026-01-17,Email,Larkspur Timber,Onboarding query,Neutral,Yes,
+SVC-30531,2026-05-28,Email,Ironbridge Timber,Billing dispute,Negative,Yes,
+SVC-30830,2025-06-01,Chat,emily.patel@ashcombefabric.co.uk,Billing dispute,Neutral,No,
+SVC-30793,20/10/2025,Phone,kirsty.tate@yewtreetextile.co.uk,Praise - support experience,Positive,Yes,
+SVC-30663,05/12/2025,Email,Larkspur Salvage Holdings,Billing dispute,Negative,Yes,
+SVC-30614,2026-05-09,Email,Kingsmead Ice Cream Ltd,Renewal question,Negative,Yes,
+SVC-30011,24/02/2026,Email,gareth.brooke@caldwelloffice.co.uk,Portal login issue,Neutral,Yes,3
+SVC-30796,2025-12-26,Email,Eastbrook Studios,Praise - support experience,Positive,Yes,
+SVC-30779,2026-05-21,Email,Ottershaw Milling Partners,Payment failed,Negative,No,
+SVC-30126,03/07/2026,Email,priya.frost@eastbrookdairy.co.uk,Payment failed,Negative,Yes,2
+SVC-30398,2025-11-29,Email,Bluewater Laundry Ltd,Praise - support experience,Positive,Yes,4
+SVC-30835,16/08/2026,Chat,tom.nairn@selworthymarin.co.uk,Meter read query,Negative,No,
+SVC-30727,2025-12-06,Phone,tara.brooke@torquepadel.co.uk,Portal login issue,Neutral,Yes,
+SVC-30112,2025-07-24,Chat,Langmere Retail (UK) Ltd,Renewal question,Negative,No,3
+SVC-30795,2025-12-22,Email,craig.ferris@summertonpadel.co.uk,Praise - support experience,Positive,Yes,5
+SVC-30578,20/11/2025,Phone,Maplin Kennels (UK) Ltd,Billing dispute,Negative,Yes,1
+SVC-30509,2026-04-27,Email,megan.pryce@caldwellroofin.co.uk,HHD data access,Positive,No,5
+SVC-30374,2026-05-25,Email,anita.osei@ironbridgeopti.co.uk,Complaint - response time,Negative,No,
+SVC-30538,03/09/2025,Email,callum.brooke@dunmoreoptics.co.uk,Praise - support experience,Positive,No,
+SVC-30595,2026-07-12,Chat,amber.bright@quarringtonnur.co.uk,Meter read query,Negative,Yes,5
+SVC-30289,23/06/2026,Email,Northgate Schools Holdings,Billing dispute,Negative,Yes,
+SVC-30197,12/08/2026,Phone,Marlow Engineering,Payment failed,Neutral,Yes,2
+SVC-30286,03/08/2026,Phone,Cobalt Retail Ltd,Complaint - response time,Negative,Yes,2
+SVC-30826,22/05/2025,Email,Hatherley Roofing Partners,Complaint - response time,Negative,Yes,3
+SVC-30144,31/05/2026,Email,Wrenfield Aquatics Group,HHD data access,Neutral,Yes,5
+SVC-30676,19/12/2025,Phone,Applegarth Maltings Group,Renewal question,Neutral,No,
+SVC-30778,04/03/2026,Email,Ottershaw Milling Partners,Billing dispute,Negative,Yes,1
+SVC-30606,07/04/2025,Email,lewis.rowntree@tanfieldcoachw.co.uk,Billing dispute,Negative,No,1
+SVC-30673,17/08/2025,Phone,Ironbridge Leisure Ltd,HHD data access,Positive,No,4
+SVC-30279,2026-02-18,Email,Verity Farm Foods Limited,Payment failed,Neutral,Yes,
+SVC-30489,2025-09-04,Phone,Larkspur Chandlery Partners,Complaint - response time,Negative,Yes,2
+SVC-30703,2025-06-17,Email,Caldwell Maltings (UK) Ltd,Billing dispute,Negative,Yes,
+SVC-30134,26/04/2026,Email,sarah.whitfield@elmwoodaquatic.co.uk,Portal login issue,Neutral,Yes,4
+SVC-30418,2025-12-09,Email,Selworthy Motors (UK) Ltd,Billing dispute,Negative,Yes,2
+SVC-30064,2026-03-02,Email,Selworthy Distillery (UK) Ltd,Portal login issue,Neutral,Yes,
+SVC-30561,07/10/2025,Email,holly.reid@langmeregarden.co.uk,Billing dispute,Neutral,Yes,
+SVC-30046,2026-04-23,Chat,Langmere Scaffolding Ltd,Praise - support experience,Positive,Yes,
+SVC-30542,2025-03-26,Email,rhys.voss@caldwellbrewer.co.uk,Complaint - response time,Negative,No,2
+SVC-30008,2025-03-12,Chat,paula.frost@eastbrookpacka.co.uk,Onboarding query,Negative,Yes,
+SVC-30623,30/07/2025,Phone,Torque Veterinary Ltd,Complaint - response time,Neutral,No,
+SVC-30465,13/01/2026,Chat,Gilded Schools Holdings,Meter read query,Neutral,No,
+SVC-30511,07/12/2025,Chat,paula.mercer@hollybushaggre.co.uk,Portal login issue,Positive,No,4
+SVC-30615,30/07/2025,Email,Bluewater Salvage Ltd,Renewal question,Neutral,Yes,
+SVC-30654,2025-05-18,Phone,Ellerton Textiles,Onboarding query,Neutral,Yes,
+SVC-30704,2025-09-01,Phone,Yarrow Scaffolding Co,Billing dispute,Negative,Yes,
+SVC-30466,2025-05-09,Email,Gilded Schools Holdings,Onboarding query,Negative,Yes,3
+SVC-30459,2026-01-06,Email,marcus.hale@denholmpadel.co.uk,Praise - support experience,Positive,No,5
+SVC-30423,2026-08-04,Chat,Lowther Engineering Ltd,Meter read query,Neutral,No,5
+SVC-30280,2026-07-20,Chat,Bexley Schools (UK) Ltd,Renewal question,Negative,Yes,
+SVC-30164,12/12/2025,Chat,Denholm Logistics Ltd,Complaint - response time,Neutral,Yes,3
+SVC-30056,17/05/2026,Email,Quayside Leisure Limited,Onboarding query,Negative,No,2
+SVC-30765,2026-02-18,Email,Bexley Galvanising Ltd,Praise - support experience,Positive,Yes,
+SVC-30022,12/10/2025,Email,Tanfield Robotics Co,Payment failed,Negative,Yes,
+SVC-30768,04/04/2026,Email,dev.sutton@applegarthgalv.co.uk,Renewal question,Positive,No,4
+SVC-30059,2026-04-18,Phone,Ashcombe Glassworks (UK) Ltd,Renewal question,Positive,Yes,
+SVC-30187,11/05/2025,Email,emily.mercer@tredegartextil.co.uk,Meter read query,Neutral,Yes,5
+SVC-30042,24/07/2026,Email,marcus.reid@stanhopestudio.co.uk,Onboarding query,Negative,Yes,3
+SVC-30806,2026-08-24,Chat,Ivybridge Catering,Contract copy request,Negative,Yes,4
+SVC-30439,22/06/2026,Email,ewan.brooke@kingsmeadmilli.co.uk,Contract copy request,Neutral,Yes,4
+SVC-30771,08/12/2025,Chat,Stanhope Plastics,HHD data access,Negative,No,5
+SVC-30386,2026-07-29,Email,iona.hale@lowthercoldsto.co.uk,Billing dispute,Neutral,Yes,
+SVC-30814,2025-09-30,Chat,daniel.mercer@cedarmotors.co.uk,Contract copy request,Positive,Yes,5
+SVC-30617,2025-06-08,Email,Ellerton Glassworks Partners,Payment failed,Negative,No,
+SVC-30318,24/12/2025,Email,aisha.yates@norburycaterin.co.uk,Payment failed,Neutral,Yes,
+SVC-30446,2026-07-12,Email,anita.nairn@eastbrookcolds.co.uk,Renewal question,Neutral,Yes,
+SVC-30493,14/10/2025,Email,Silverbeck Studios Co,Billing dispute,Neutral,Yes,3
+SVC-30370,2026-03-22,Chat,Kelbrook Optics Co,Onboarding query,Neutral,Yes,3
+SVC-30255,02/06/2025,Chat,chloe.reid@jarrowseafoods.co.uk,Billing dispute,Negative,Yes,
+SVC-30555,08/06/2026,Chat,Foxglove Chandlery Group,Complaint - response time,Negative,Yes,
+SVC-30454,06/05/2026,Chat,jack.yates@larkspurveteri.co.uk,Meter read query,Positive,Yes,3
+SVC-30701,12/06/2025,Email,Wrenfield Upholstery Limited,Praise - support experience,Positive,Yes,4
+SVC-30135,2026-03-05,Phone,Bexley Milling Holdings,HHD data access,Neutral,Yes,
+SVC-30334,24/11/2025,Phone,nadia.ogden@gildedprint.co.uk,Portal login issue,Positive,Yes,4
+SVC-30700,2025-06-18,Chat,Exmoor Plastics Co,Billing dispute,Negative,Yes,2
+SVC-30189,23/02/2026,Chat,tom.ellison@zephyrsalvage.co.uk,Praise - support experience,Positive,Yes,4
+SVC-30079,2026-01-07,Email,Lighthouse Laundry,Complaint - response time,Neutral,Yes,2
+SVC-30486,2026-05-11,Email,Nettlebed Cinemas & Sons,Praise - support experience,Positive,Yes,4
+SVC-30113,2026-08-19,Chat,Oakhurst Studios Partners,Praise - support experience,Positive,Yes,3
+SVC-30684,2025-08-31,Phone,jack.doyle@umbersiderecyc.co.uk,Complaint - response time,Negative,No,2
+SVC-30009,2026-04-28,Email,Thackery Marine Ltd,Portal login issue,Positive,Yes,3
+SVC-30068,2026-04-23,Email,megan.underhill@kestreltanning.co.uk,Praise - support experience,Positive,Yes,5
+SVC-30223,2025-05-27,Chat,daniel.sharpe@stanhopebrewer.co.uk,Complaint - response time,Neutral,No,
+SVC-30600,24/07/2026,Chat,Northgate Chandlery & Sons,Portal login issue,Neutral,Yes,4
+SVC-30546,08/11/2025,Phone,Silverbeck Care Group,Complaint - response time,Neutral,Yes,3
+SVC-30247,2026-03-13,Email,Verity Garden Limited,Onboarding query,Positive,Yes,
+SVC-30310,2026-03-26,Email,Kingsmead Veterinary Limited,Billing dispute,Negative,Yes,2
+SVC-30824,15/10/2025,Chat,Wrenfield Packaging Co,Billing dispute,Negative,Yes,
+SVC-30577,12/05/2025,Chat,sanjay.wren@nettlebedjoine.co.uk,Complaint - response time,Negative,No,3
+SVC-30202,27/06/2026,Email,Foxglove Foundry Co,Payment failed,Negative,Yes,2
+SVC-30312,13/07/2025,Email,Marlow Precision,Onboarding query,Neutral,Yes,
+SVC-30071,09/06/2026,Email,Bramble Precision Ltd,Complaint - response time,Negative,Yes,
+SVC-30088,01/11/2025,Email,Cedar Upholstery,HHD data access,Neutral,Yes,4
+SVC-30380,2026-03-01,Email,Farrier Foundry Group,Payment failed,Negative,Yes,
+SVC-30733,16/08/2026,Phone,Cedar Aquatics Ltd,Complaint - response time,Neutral,Yes,2
+SVC-30545,2025-11-13,Email,Silverbeck Care Group,Meter read query,Neutral,Yes,
+SVC-30159,11/09/2025,Email,emily.whitfield@inglebytanning.co.uk,Renewal question,Neutral,Yes,4
+SVC-30360,2025-04-09,Phone,Quayside Veterinary,Complaint - response time,Neutral,No,2
+SVC-30808,28/09/2025,Chat,Yarrow Milling Ltd,Complaint - response time,Neutral,Yes,1
+SVC-30206,2026-06-13,Email,ben.sutton@ashcombegarden.co.uk,Complaint - response time,Neutral,No,2
+SVC-30152,30/05/2026,Email,Padstow Bakehouse Limited,Onboarding query,Neutral,Yes,
+SVC-30532,2026-02-18,Email,lucy.frost@yewtreeprecisi.co.uk,Payment failed,Negative,Yes,
+SVC-30102,05/07/2026,Email,Stanhope Forge (UK) Ltd,Contract copy request,Negative,Yes,5
+SVC-30557,2025-05-28,Email,Silverbeck Precision Co,Praise - support experience,Positive,Yes,3
+SVC-30038,28/03/2025,Phone,Ellerton Restaurants Ltd,Praise - support experience,Positive,No,5
+SVC-30364,2025-04-05,Email,Zephyr Print Partners,Payment failed,Negative,No,
+SVC-30741,2026-06-30,Email,paula.voss@summertondatar.co.uk,Renewal question,Neutral,Yes,
+SVC-30121,2026-01-12,Email,Eastbrook Retail Co,Onboarding query,Neutral,Yes,3
+SVC-30777,2025-10-07,Email,Zetland Tanning Holdings,Payment failed,Negative,Yes,
+SVC-30311,2026-06-03,Email,Lighthouse Seafoods Co,Meter read query,Neutral,No,4
+SVC-30353,14/06/2025,Email,Langmere Tanning Partners,HHD data access,Negative,Yes,
+SVC-30104,07/08/2026,Phone,Lighthouse Recycling Co,Portal login issue,Positive,Yes,4
+SVC-30182,25/03/2026,Email,Cranleigh Logistics Group,Billing dispute,Negative,Yes,
+SVC-30547,27/06/2025,Chat,Marlow Laundry Partners,Complaint - response time,Neutral,Yes,
+SVC-30470,2026-01-03,Chat,Kelbrook Leisure Group,Praise - support experience,Positive,Yes,
+SVC-30021,17/03/2025,Chat,nadia.wren@cedarroofing.co.uk,HHD data access,Neutral,Yes,5
+SVC-30718,2026-05-31,Email,Applegarth Maltings & Sons,Praise - support experience,Positive,Yes,
+SVC-30438,2025-07-19,Email,grace.marsh@tredegarcateri.co.uk,Renewal question,Negative,No,5
+SVC-30689,2025-12-01,Chat,Verity Garden Group,Meter read query,Neutral,Yes,
+SVC-30076,2025-08-01,Email,Yewtree Restaurants Ltd,HHD data access,Neutral,Yes,4
+SVC-30390,17/04/2026,Email,Millpond Precision Holdings,HHD data access,Negative,Yes,4
+SVC-30323,2025-11-15,Email,Norbury Tanning,Payment failed,Negative,Yes,
+SVC-30508,2025-07-25,Phone,Quayside Timber Group,Contract copy request,Positive,No,5
+SVC-30192,29/10/2025,Email,zara.yates@riverbankpreci.co.uk,Contract copy request,Neutral,No,3
+SVC-30173,12/10/2025,Email,anita.kaur@verityfabricat.co.uk,Onboarding query,Neutral,Yes,
+SVC-30242,2025-09-28,Email,ben.grady@exmoorjoinery.co.uk,Praise - support experience,Positive,No,3
+SVC-30480,2025-12-22,Chat,Eastbrook Laundry Ltd,Complaint - response time,Neutral,Yes,3
+SVC-30679,2025-10-14,Phone,Eastbrook Bakehouse Limited,Onboarding query,Neutral,Yes,4
+SVC-30062,2025-09-01,Email,zara.okafor@selworthydisti.co.uk,Praise - support experience,Positive,No,5
+SVC-30014,07/07/2026,Email,lewis.doyle@marlowicecream.co.uk,Meter read query,Negative,Yes,4
+SVC-30724,2025-04-26,Phone,sarah.macleod@inglebyhotels.co.uk,Meter read query,Negative,Yes,5
+SVC-30726,2025-10-06,Chat,stefan.ogden@eastbrookrecyc.co.uk,Praise - support experience,Positive,No,4
+SVC-30527,2026-07-07,Phone,Violetta Print Holdings,Complaint - response time,Negative,Yes,
+SVC-30670,01/01/2026,Phone,Kestrel Scaffolding Ltd,Renewal question,Neutral,Yes,3
+SVC-30273,2025-04-06,Email,rhys.whitfield@veritykennels.co.uk,Onboarding query,Neutral,Yes,
+SVC-30417,2025-04-06,Phone,omar.okafor@violettadistil.co.uk,Billing dispute,Neutral,Yes,3
+SVC-30567,2026-07-30,Email,rhys.sharpe@marlowtanning.co.uk,Billing dispute,Neutral,Yes,2
+SVC-30205,06/10/2025,Phone,Riverbank Maltings Limited,Billing dispute,Neutral,No,
+SVC-30018,2026-04-23,Email,Tredegar Print Ltd,Portal login issue,Positive,No,4
+SVC-30738,07/05/2025,Email,Westcliff Care Group,HHD data access,Positive,Yes,
+SVC-30136,30/09/2025,Email,fatima.rowntree@torquemotors.co.uk,Complaint - response time,Negative,No,1
+SVC-30664,2026-03-22,Email,Langmere Forge Ltd,Portal login issue,Positive,Yes,
+SVC-30444,2025-07-02,Email,iona.reid@ironbridgeaqua.co.uk,Meter read query,Neutral,Yes,
+SVC-30162,15/10/2025,Email,Yewtree Leisure Ltd,Praise - support experience,Positive,Yes,5
+SVC-30706,2025-08-07,Chat,chloe.keane@zephyrrestaura.co.uk,Contract copy request,Neutral,Yes,
+SVC-30770,2026-05-12,Chat,ben.hansen@redwingcinemas.co.uk,Billing dispute,Neutral,Yes,3
+SVC-30261,2025-04-20,Email,Jespersen Gym Holdings,Complaint - response time,Negative,No,3
+SVC-30419,2026-04-11,Email,Riverbank Logistics Holdings,HHD data access,Negative,Yes,3
+SVC-30084,2026-04-03,Phone,tom.hansen@harbornefabric.co.uk,HHD data access,Negative,Yes,2
+SVC-30776,11/08/2026,Chat,chloe.hale@torquejoinery.co.uk,HHD data access,Neutral,Yes,
+SVC-30696,01/11/2025,Email,Kestrel Aggregates,Praise - support experience,Positive,No,5
+SVC-30032,04/05/2025,Chat,gareth.patel@ironbridgeoffi.co.uk,Meter read query,Negative,Yes,
+SVC-30139,2025-07-16,Phone,peter.hansen@cranleightanni.co.uk,Contract copy request,Neutral,No,
+SVC-30133,30/09/2025,Email,Whitethorn Galvanising Group,Billing dispute,Negative,Yes,
+SVC-30028,2025-10-25,Phone,Bexley Galvanising,Praise - support experience,Positive,Yes,3
+SVC-30039,15/04/2025,Email,Harborne Chandlery (UK) Ltd,Complaint - response time,Negative,No,2
+SVC-30414,2025-12-28,Email,sanjay.chowdhury@silverbeckreta.co.uk,Portal login issue,Neutral,Yes,
+SVC-30264,2026-08-21,Phone,Lowther Robotics Holdings,HHD data access,Positive,No,5
+SVC-30598,2025-10-15,Phone,Elmwood Marine Ltd,Praise - support experience,Positive,No,5
+SVC-30479,2025-10-18,Email,megan.marsh@oakhursttextil.co.uk,HHD data access,Neutral,Yes,4
+SVC-30467,11/04/2026,Email,Applegarth Cold Storage Ltd,Billing dispute,Neutral,No,2
+SVC-30339,04/12/2025,Chat,Quenington Glassworks Ltd,Contract copy request,Neutral,Yes,
+SVC-30277,2026-07-12,Email,lucy.sharpe@westcliffgym.co.uk,Portal login issue,Positive,Yes,
+SVC-30138,2025-09-02,Phone,Denholm Pharmacy,Renewal question,Neutral,Yes,5
+SVC-30160,30/05/2025,Email,Ivybridge Print & Sons,Complaint - response time,Negative,Yes,
+SVC-30774,18/03/2025,Email,sarah.tate@exmoorpackagin.co.uk,HHD data access,Negative,No,
+SVC-30442,24/10/2025,Chat,iona.underhill@kelbrookleisur.co.uk,HHD data access,Positive,Yes,4
+SVC-30375,2026-03-12,Phone,Tredegar Plastics Limited,Billing dispute,Negative,No,2
+SVC-30475,2025-04-06,Chat,stefan.sharpe@pennineleisure.co.uk,Billing dispute,Neutral,Yes,3
+SVC-30337,2025-03-11,Phone,iona.marsh@farrierrestaur.co.uk,Payment failed,Negative,Yes,
+SVC-30142,09/08/2026,Email,Cobalt Recycling,HHD data access,Neutral,Yes,4
+SVC-30130,16/06/2025,Chat,jack.kaur@nettlebedgarde.co.uk,Complaint - response time,Negative,Yes,3
+SVC-30813,11/10/2025,Chat,amber.sharpe@cranleighlogis.co.uk,Onboarding query,Negative,Yes,
+SVC-30326,21/01/2026,Phone,anita.iqbal@cedarretail.co.uk,Praise - support experience,Positive,Yes,4
+SVC-30110,2026-01-15,Email,sarah.vance@hatherleyfabri.co.uk,Payment failed,Neutral,Yes,3
+SVC-30799,2026-08-25,Email,Denholm Pharmacy Limited,Portal login issue,Positive,Yes,
+SVC-30409,17/05/2025,Email,chloe.whitfield@zetlandbookbin.co.uk,Onboarding query,Neutral,Yes,
+SVC-30349,12/07/2025,Email,Dunmore Padel Limited,Meter read query,Neutral,Yes,
+SVC-30259,27/03/2026,Phone,Bramble Care Group,Meter read query,Positive,Yes,4
+SVC-30013,28/12/2025,Phone,Whitethorn Farm Foods Ltd,Contract copy request,Neutral,No,4
+SVC-30027,2025-08-01,Email,lucy.osei@umbersidecinem.co.uk,HHD data access,Neutral,No,
+SVC-30612,2025-06-18,Email,Hollybush Dairy Ltd,Complaint - response time,Neutral,Yes,
+SVC-30609,24/05/2026,Phone,dev.whitfield@langmerepackag.co.uk,Contract copy request,Neutral,Yes,5
+SVC-30406,2025-05-31,Email,zara.underhill@whitethorncine.co.uk,Billing dispute,Negative,Yes,
+SVC-30551,17/05/2025,Chat,Rosedale Veterinary,Onboarding query,Neutral,Yes,4
+SVC-30720,2026-01-08,Email,kirsty.ferris@tredegaruphols.co.uk,Meter read query,Neutral,Yes,
+SVC-30232,2025-09-15,Email,oliver.osei@saltmarshcinem.co.uk,Onboarding query,Positive,No,4
+SVC-30217,21/10/2025,Phone,lucy.brooke@marlowleisure.co.uk,Payment failed,Neutral,Yes,3
+SVC-30657,2026-03-10,Email,Yewtree Padel & Sons,Portal login issue,Positive,Yes,4
+SVC-30275,12/09/2025,Phone,Applegarth Print Ltd,Payment failed,Negative,Yes,3
+SVC-30163,05/08/2025,Email,Caldwell Milling Partners,Portal login issue,Neutral,Yes,
+SVC-30293,2026-03-11,Email,Ullswater Recycling Holdings,Renewal question,Neutral,Yes,4
+SVC-30463,2025-04-20,Email,Quayside Cold Storage Co,Portal login issue,Neutral,Yes,4
+SVC-30497,18/01/2026,Chat,Cobalt Veterinary Limited,HHD data access,Negative,Yes,5
+SVC-30424,12/09/2025,Email,Yewtree Aggregates Limited,HHD data access,Positive,Yes,5
+SVC-30128,2026-01-13,Email,Zetland Restaurants Holdings,Contract copy request,Positive,No,2
+SVC-30469,09/09/2025,Email,Ellerton Roofing Partners,HHD data access,Neutral,Yes,
+SVC-30619,28/07/2025,Email,amber.nairn@hatherleybrewe.co.uk,Onboarding query,Neutral,Yes,
+SVC-30811,2026-01-09,Email,rhys.mercer@tanfieldgym.co.uk,Meter read query,Negative,Yes,5
+SVC-30750,2026-01-08,Chat,marcus.yates@jarrowchandler.co.uk,Praise - support experience,Positive,No,5
+SVC-30212,2025-08-22,Email,Tanfield Timber,Payment failed,Negative,No,
+SVC-30091,2026-06-25,Email,iona.macleod@atlasoffices.co.uk,Billing dispute,Negative,Yes,1
+SVC-30582,2025-08-10,Phone,emily.jennings@westcliffbakeh.co.uk,Contract copy request,Negative,Yes,
+SVC-30278,12/05/2026,Chat,rhys.iqbal@millpondicecre.co.uk,HHD data access,Positive,Yes,5
+SVC-30731,2025-10-31,Phone,Exmoor Coachworks Holdings,Complaint - response time,Negative,No,3
+SVC-30421,2026-01-13,Phone,stefan.iqbal@ironbridgenurs.co.uk,HHD data access,Positive,Yes,4
+SVC-30099,10/03/2026,Chat,Zephyr Cinemas & Sons,Renewal question,Negative,No,
+SVC-30681,2026-01-30,Email,Eastbrook Bakehouse Limited,Complaint - response time,Neutral,Yes,2
+SVC-30253,2026-04-24,Chat,nia.whitfield@northgatepacka.co.uk,Complaint - response time,Negative,Yes,
+SVC-30408,2026-07-09,Email,Zetland Bookbinders Ltd,Meter read query,Positive,No,
+SVC-30588,08/03/2026,Email,amber.underhill@elmwoodtimber.co.uk,Payment failed,Negative,No,1
+SVC-30512,22/10/2025,Email,paula.mercer@hollybushaggre.co.uk,Complaint - response time,Negative,Yes,1
+SVC-30534,2025-10-02,Chat,Denholm Nurseries Partners,Meter read query,Positive,Yes,
+SVC-30660,2026-02-22,Phone,Tredegar Studios,HHD data access,Positive,No,4
+SVC-30805,19/03/2026,Phone,dev.sutton@ironbridgephar.co.uk,Renewal question,Neutral,No,3
+SVC-30237,18/04/2025,Phone,iona.wren@violettaforge.co.uk,Onboarding query,Neutral,Yes,5
+SVC-30632,16/06/2025,Chat,emily.osei@ullswatericecr.co.uk,Meter read query,Neutral,Yes,4
+SVC-30553,21/03/2026,Phone,Rosedale Veterinary,Payment failed,Neutral,Yes,3
+SVC-30719,2025-11-18,Email,omar.bright@dunmorebakehou.co.uk,Praise - support experience,Positive,Yes,
+SVC-30350,2026-04-07,Chat,Cobalt Maltings,Complaint - response time,Negative,Yes,2
+SVC-30363,2026-06-12,Email,megan.brooke@foxglovecoldst.co.uk,Praise - support experience,Positive,No,5
+SVC-30233,2025-05-14,Email,Fernhill Forge Holdings,Payment failed,Neutral,No,3
+SVC-30678,2026-03-02,Chat,Selworthy Leisure Holdings,Billing dispute,Negative,Yes,1
+SVC-30448,08/03/2026,Email,Exmoor Maltings Ltd,Billing dispute,Negative,Yes,
+SVC-30576,2025-09-29,Email,grace.nowak@violettaoptics.co.uk,Billing dispute,Neutral,Yes,
+SVC-30792,04/03/2026,Email,Exmoor Galvanising (UK) Ltd,Payment failed,Negative,Yes,1
+SVC-30151,2026-08-04,Email,Applegarth Ice Cream Partners,Onboarding query,Positive,Yes,4
+SVC-30332,10/11/2025,Email,Vantage Schools (UK) Ltd,HHD data access,Positive,Yes,5
+SVC-30685,28/10/2025,Email,Gilded Foundry & Sons,Payment failed,Neutral,Yes,3
+SVC-30429,10/06/2026,Phone,craig.vance@quaysidedistil.co.uk,Payment failed,Negative,Yes,
+SVC-30351,17/06/2026,Email,Birchmoor Schools Co,Complaint - response time,Negative,Yes,2
+SVC-30721,19/06/2026,Email,nadia.wren@elmwoodtanning.co.uk,Billing dispute,Negative,No,2
+SVC-30797,26/08/2026,Chat,Norbury Leisure Ltd,Renewal question,Neutral,No,
+SVC-30108,22/03/2026,Email,priya.mercer@ellertonschool.co.uk,Praise - support experience,Positive,Yes,5
+SVC-30425,2025-12-01,Email,ryan.pryce@yewtreeaggrega.co.uk,Portal login issue,Positive,Yes,
+SVC-30085,2026-03-04,Phone,Harborne Fabrications & Sons,Payment failed,Neutral,Yes,
+SVC-30699,2025-03-30,Email,Applegarth Schools Ltd,Payment failed,Negative,Yes,
+SVC-30294,24/07/2026,Email,Wrenfield Studios Co,Payment failed,Negative,Yes,2
+SVC-30215,2025-04-21,Phone,tara.macleod@rosedalescaffo.co.uk,Complaint - response time,Negative,Yes,
+SVC-30358,2025-09-12,Email,omar.nairn@saltmarshrobot.co.uk,Contract copy request,Neutral,Yes,
+SVC-30343,2025-08-02,Phone,lewis.nairn@millpondbakeho.co.uk,Onboarding query,Negative,Yes,
+SVC-30435,2025-06-30,Chat,gareth.quinn@ashcomberestau.co.uk,Complaint - response time,Negative,Yes,3
+SVC-30725,2025-09-21,Phone,oliver.brooke@veritybakehous.co.uk,Portal login issue,Neutral,Yes,
+SVC-30169,2025-11-27,Phone,nadia.ellison@bluewaterscaff.co.uk,Contract copy request,Positive,No,
+SVC-30218,2025-11-15,Chat,rhys.voss@rosedaletextil.co.uk,Portal login issue,Positive,Yes,3
+SVC-30620,2026-08-09,Email,amber.nairn@hatherleybrewe.co.uk,Meter read query,Negative,Yes,
+SVC-30460,2026-03-16,Chat,Denholm Padel Holdings,Portal login issue,Negative,Yes,
+SVC-30490,2025-04-17,Phone,Thackery Pharmacy (UK) Ltd,Portal login issue,Neutral,No,5
+SVC-30821,29/08/2025,Chat,Ironbridge Bakehouse & Sons,Praise - support experience,Positive,No,
+SVC-30060,2025-03-24,Chat,iona.nairn@padstowbreweri.co.uk,Payment failed,Neutral,No,2
+SVC-30766,14/09/2025,Phone,ben.pryce@bexleygalvanis.co.uk,Portal login issue,Neutral,No,4
+SVC-30556,2026-03-10,Email,marcus.reid@foxglovemarine.co.uk,Payment failed,Negative,Yes,1
+SVC-30025,2025-12-09,Email,oliver.bright@millpondbookbi.co.uk,Portal login issue,Neutral,No,
+SVC-30462,2025-03-28,Email,Fernhill Bakehouse Holdings,Onboarding query,Neutral,Yes,
+SVC-30345,26/05/2026,Email,Dunmore Logistics & Sons,Meter read query,Neutral,Yes,
+SVC-30697,2026-04-30,Email,Kestrel Aggregates,Meter read query,Negative,Yes,
+SVC-30559,11/02/2026,Email,holly.reid@langmeregarden.co.uk,Contract copy request,Neutral,Yes,
+SVC-30074,2025-11-09,Email,marcus.nowak@maplinlogistic.co.uk,Contract copy request,Neutral,Yes,4
+SVC-30537,2025-09-29,Phone,Quenington Veterinary Group,Complaint - response time,Negative,Yes,
+SVC-30686,31/07/2025,Email,ryan.grady@millpondpharma.co.uk,Praise - support experience,Positive,Yes,
+SVC-30109,2026-05-19,Email,Hatherley Fabrications Group,Complaint - response time,Negative,Yes,1
+SVC-30067,2025-07-06,Email,megan.underhill@kestreltanning.co.uk,Renewal question,Positive,No,5
+SVC-30090,19/05/2025,Email,james.grady@selworthyveter.co.uk,Payment failed,Negative,No,3
+SVC-30650,09/12/2025,Phone,Maplin Recycling Limited,Payment failed,Negative,Yes,
+SVC-30825,11/11/2025,Phone,nia.jennings@hatherleyroofi.co.uk,Portal login issue,Positive,No,5
+SVC-30457,2025-06-02,Phone,Millpond Gym (UK) Ltd,Billing dispute,Neutral,No,
+SVC-30319,2026-08-19,Phone,aisha.yates@norburycaterin.co.uk,Complaint - response time,Negative,No,
+SVC-30338,2025-11-10,Chat,zara.quinn@queningtonglas.co.uk,Portal login issue,Neutral,Yes,
+SVC-30320,26/06/2026,Email,Harborne Marine & Sons,Onboarding query,Neutral,Yes,5
+SVC-30569,2026-01-27,Chat,Dunmore Cinemas Holdings,Contract copy request,Negative,Yes,5
+SVC-30107,2025-07-19,Phone,priya.mercer@ellertonschool.co.uk,Billing dispute,Neutral,No,
+SVC-30240,01/07/2026,Email,nadia.marsh@langmererecycl.co.uk,Payment failed,Negative,Yes,2
+SVC-30267,2025-09-23,Email,Padstow Print & Sons,Praise - support experience,Positive,Yes,
+SVC-30117,2025-10-24,Email,jack.jennings@tredegarveteri.co.uk,Portal login issue,Positive,Yes,5
+SVC-30517,04/12/2025,Email,Riverbank Plastics Limited,Contract copy request,Negative,Yes,4
+SVC-30111,2025-11-28,Chat,Umberside Aquatics,Onboarding query,Neutral,Yes,5
+SVC-30077,12/05/2026,Phone,Yewtree Restaurants Ltd,Contract copy request,Neutral,Yes,
+SVC-30226,27/01/2026,Email,iona.grady@padstowtextile.co.uk,Praise - support experience,Positive,Yes,3
+SVC-30543,2026-04-01,Email,craig.nairn@birchmoorseafo.co.uk,Contract copy request,Negative,No,5
+SVC-30601,08/02/2026,Email,dev.tate@northgatechand.co.uk,Complaint - response time,Negative,Yes,4
+SVC-30568,2025-08-04,Email,ryan.grady@westcliffpreci.co.uk,Payment failed,Negative,Yes,3
+SVC-30430,2025-06-13,Phone,megan.lomax@gildedtextiles.co.uk,Onboarding query,Positive,No,
+SVC-30541,2025-03-16,Email,megan.quinn@quaysidestudio.co.uk,Billing dispute,Neutral,Yes,
+SVC-30759,26/04/2025,Email,Ironbridge Precision Co,Payment failed,Neutral,Yes,
+SVC-30081,2025-05-27,Phone,Norbury Padel & Sons,Onboarding query,Negative,Yes,
+SVC-30812,2026-08-29,Chat,marcus.wren@riverbankdisti.co.uk,HHD data access,Positive,Yes,4
+SVC-30640,05/05/2025,Email,Garwood Cinemas Holdings,Complaint - response time,Negative,Yes,3
+SVC-30607,2026-03-31,Chat,dev.whitfield@langmerepackag.co.uk,Praise - support experience,Positive,Yes,
+SVC-30087,2026-05-23,Email,aisha.keane@ullswaterpreci.co.uk,Praise - support experience,Positive,Yes,5
+SVC-30641,17/05/2025,Phone,Violetta Cinemas Limited,Payment failed,Negative,Yes,2
+SVC-30260,2026-04-28,Phone,Quenington Seafoods Holdings,Praise - support experience,Positive,Yes,2
+SVC-30762,2025-05-13,Email,Umberside Optics & Sons,Praise - support experience,Positive,Yes,
+SVC-30140,18/06/2026,Email,Maplin Catering Holdings,Complaint - response time,Negative,Yes,
+SVC-30452,2025-06-01,Phone,rhys.ogden@umbersidetexti.co.uk,Billing dispute,Negative,Yes,
+SVC-30002,2026-02-02,Email,Saltmarsh Tanning Ltd,Praise - support experience,Positive,Yes,4
+SVC-30739,2025-07-26,Email,Bexley Dairy & Sons,Renewal question,Neutral,No,
+SVC-30389,19/06/2026,Chat,tara.yates@stanhopepharma.co.uk,Billing dispute,Negative,Yes,2
+SVC-30174,2026-08-29,Email,Ottershaw Chandlery Holdings,Payment failed,Negative,No,
+SVC-30393,2026-06-28,Chat,craig.mercer@cobaltcatering.co.uk,Complaint - response time,Negative,Yes,2
+SVC-30504,2026-02-25,Email,lewis.chowdhury@atlascatering.co.uk,Praise - support experience,Positive,Yes,3
+SVC-30565,2025-11-23,Email,noel.brooke@zetlandpadel.co.uk,Billing dispute,Neutral,Yes,1
+SVC-30344,05/07/2025,Phone,stefan.reid@riverbanktimbe.co.uk,Onboarding query,Negative,Yes,3
+SVC-30026,21/12/2025,Chat,dev.ferris@cobaltscaffold.co.uk,Praise - support experience,Positive,Yes,
+SVC-30772,2026-05-16,Chat,nia.macleod@riverbankjoine.co.uk,Meter read query,Neutral,Yes,
+SVC-30181,2025-07-23,Chat,priya.tate@lighthousemill.co.uk,Praise - support experience,Positive,Yes,
+SVC-30789,02/04/2025,Email,craig.yates@eastbrookoptic.co.uk,Complaint - response time,Neutral,Yes,3
+SVC-30536,2026-07-09,Email,Tredegar Breweries & Sons,Contract copy request,Negative,Yes,
+SVC-30057,2025-11-02,Phone,Vantage Motors Holdings,Renewal question,Negative,Yes,
+SVC-30516,03/12/2025,Email,Selworthy Aggregates Holdings,Complaint - response time,Negative,Yes,
+SVC-30552,2025-07-01,Phone,daniel.chowdhury@rosedaleveteri.co.uk,Billing dispute,Neutral,Yes,1
+SVC-30495,2025-09-29,Email,Ravenscar Offices Group,Renewal question,Neutral,Yes,5
+SVC-30287,2026-01-16,Email,Tredegar Breweries,Onboarding query,Neutral,No,4
+SVC-30324,03/05/2026,Email,Thackery Offices Co,Complaint - response time,Negative,No,
+SVC-30737,28/11/2025,Email,Maplin Cold Storage Ltd,Complaint - response time,Negative,Yes,
+SVC-30341,28/01/2026,Chat,grace.quinn@ashcombebakeho.co.uk,Contract copy request,Positive,Yes,3
+SVC-30101,2026-06-22,Email,Padstow Offices Limited,Meter read query,Negative,No,
+SVC-30571,11/03/2026,Email,amber.grady@jespersenretai.co.uk,Onboarding query,Neutral,No,5
+SVC-30391,2026-01-22,Email,rhys.patel@saltmarshcolds.co.uk,Complaint - response time,Negative,No,
+SVC-30195,10/12/2025,Phone,stefan.tate@millpondtimber.co.uk,Renewal question,Positive,Yes,4
+SVC-30749,2025-04-03,Email,Larkspur Distillery (UK) Ltd,Billing dispute,Neutral,Yes,1
+SVC-30461,16/03/2025,Email,Denholm Padel Holdings,Portal login issue,Negative,No,4
+SVC-30400,15/02/2026,Email,Ingleby Retail Ltd,Billing dispute,Negative,No,
+SVC-30023,03/12/2025,Phone,gareth.mercer@tanfieldroboti.co.uk,Payment failed,Negative,Yes,2
+SVC-30674,02/11/2025,Email,Bexley Plastics Ltd,Meter read query,Neutral,No,3
+SVC-30047,10/08/2025,Phone,peter.macleod@violettanurser.co.uk,Praise - support experience,Positive,Yes,
+SVC-30692,2025-09-25,Email,Pemberley Bakehouse Partners,Meter read query,Negative,Yes,5
+SVC-30229,04/06/2026,Email,Ottershaw Milling Ltd,Praise - support experience,Positive,No,
+SVC-30436,26/10/2025,Phone,iona.grady@summertoncoach.co.uk,Praise - support experience,Positive,Yes,
+SVC-30709,27/06/2025,Phone,Ottershaw Aggregates Group,Praise - support experience,Positive,No,5
+SVC-30659,2026-05-28,Email,gareth.ferris@norburyveterin.co.uk,Contract copy request,Neutral,Yes,4
+SVC-30481,18/11/2025,Phone,callum.reid@oakhurststudio.co.uk,Praise - support experience,Positive,No,3
+SVC-30637,02/10/2025,Email,Foxglove Padel Ltd,Portal login issue,Neutral,Yes,
+SVC-30748,2025-04-18,Phone,oliver.hansen@ottershawcare.co.uk,Payment failed,Neutral,Yes,2
+SVC-30282,20/07/2025,Chat,priya.iqbal@langmerepharma.co.uk,Billing dispute,Negative,Yes,
+SVC-30427,11/02/2026,Email,craig.vance@quaysidedistil.co.uk,Payment failed,Negative,Yes,3
+SVC-30045,19/07/2025,Email,grace.ogden@denholmcinemas.co.uk,Billing dispute,Negative,Yes,2
+SVC-30256,2025-04-18,Phone,holly.ogden@jespersencare.co.uk,Portal login issue,Neutral,Yes,3
+SVC-30580,2025-04-22,Phone,omar.tate@norburytextile.co.uk,Praise - support experience,Positive,Yes,4
+SVC-30327,2025-06-23,Phone,anita.iqbal@cedarretail.co.uk,Renewal question,Negative,Yes,5
+SVC-30677,2025-12-29,Email,fatima.hale@tredegarglassw.co.uk,Portal login issue,Negative,Yes,
+SVC-30369,2026-04-18,Phone,callum.macleod@kelbrookoptics.co.uk,Billing dispute,Neutral,No,
+SVC-30359,2025-05-17,Chat,lewis.mercer@whitethornscaf.co.uk,Praise - support experience,Positive,No,5
+SVC-30316,25/08/2025,Email,peter.grady@pemberleymotor.co.uk,Meter read query,Neutral,Yes,
+SVC-30694,30/06/2025,Email,ben.rowntree@oakhurstprecis.co.uk,Portal login issue,Neutral,Yes,
+SVC-30744,2025-11-24,Phone,callum.grady@exmoorgym.co.uk,Meter read query,Neutral,Yes,5
+SVC-30587,19/08/2026,Phone,Elmwood Timber Ltd,Billing dispute,Negative,Yes,
+SVC-30794,05/08/2025,Chat,Yewtree Textiles Partners,HHD data access,Neutral,Yes,
+SVC-30309,2026-03-09,Chat,sarah.grady@cedarmaltings.co.uk,Meter read query,Neutral,Yes,4
+SVC-30783,16/06/2025,Email,Vantage Garden Ltd,Billing dispute,Negative,Yes,2
+SVC-30642,2025-09-02,Phone,Tanfield Packaging Partners,Renewal question,Neutral,Yes,3
+SVC-30119,28/01/2026,Phone,iona.reid@millpondmillin.co.uk,Billing dispute,Negative,Yes,3
+SVC-30447,22/05/2025,Chat,grace.rowntree@ivybridgeicecr.co.uk,Payment failed,Negative,Yes,4
+SVC-30051,2025-05-10,Chat,lewis.lomax@halewoodgalvan.co.uk,Praise - support experience,Positive,Yes,
+SVC-30482,2026-06-02,Email,paula.nowak@saltmarshlogis.co.uk,Contract copy request,Neutral,No,5
+SVC-30535,17/04/2025,Email,Torque Tanning & Sons,Portal login issue,Neutral,Yes,3
+SVC-30328,2025-03-28,Phone,Yewtree Garden Limited,Meter read query,Positive,Yes,3
+SVC-30518,01/05/2025,Phone,craig.frost@hollybushfound.co.uk,Praise - support experience,Positive,Yes,
+SVC-30381,04/08/2025,Email,freya.whitfield@nettlebedprint.co.uk,HHD data access,Positive,Yes,4
+SVC-30180,2025-09-07,Chat,megan.hansen@cobaltglasswor.co.uk,Portal login issue,Neutral,Yes,
+SVC-30695,10/08/2026,Email,tara.keane@gildedpharmacy.co.uk,Portal login issue,Positive,Yes,
+SVC-30669,23/03/2026,Chat,omar.frost@silverbeckcold.co.uk,Renewal question,Positive,No,
+SVC-30530,2026-06-23,Phone,stefan.jennings@padstowfarmfoo.co.uk,Billing dispute,Negative,Yes,
+SVC-30705,2025-04-30,Email,jack.kaur@ullswateroffic.co.uk,Complaint - response time,Neutral,Yes,
+SVC-30420,03/06/2026,Email,grace.wren@ellertonfarmfo.co.uk,Contract copy request,Neutral,Yes,
+SVC-30622,17/04/2026,Chat,Zetland Gym Ltd,Payment failed,Neutral,No,3
+SVC-30230,20/05/2026,Chat,Umberside Garden Co,Renewal question,Negative,Yes,4
+SVC-30394,2025-10-19,Email,peter.voss@ashcombebakeho.co.uk,Payment failed,Negative,No,
+SVC-30093,2026-06-11,Phone,Wrenfield Precision (UK) Ltd,HHD data access,Negative,Yes,
+SVC-30368,2026-06-24,Email,marcus.nowak@garwoodmalting.co.uk,Onboarding query,Positive,Yes,
+SVC-30346,31/03/2025,Email,Zetland Data Rooms Limited,Praise - support experience,Positive,Yes,
+SVC-30687,2026-05-27,Phone,amber.rowntree@selworthytimbe.co.uk,Renewal question,Positive,Yes,5
+SVC-30416,2025-09-04,Email,omar.okafor@violettadistil.co.uk,Portal login issue,Neutral,Yes,
+SVC-30519,2026-06-09,Phone,Birchmoor Laundry Ltd,Billing dispute,Neutral,No,3
+SVC-30220,2025-09-21,Chat,Quenington Hotels Holdings,Billing dispute,Negative,Yes,1
+SVC-30065,12/08/2025,Email,Kelbrook Precision Ltd,Praise - support experience,Positive,Yes,5
+SVC-30125,2026-04-21,Phone,omar.reid@hatherleyprint.co.uk,Praise - support experience,Positive,Yes,4
+SVC-30308,2025-03-10,Email,Stanhope Maltings Group,HHD data access,Negative,Yes,5
+SVC-30335,25/11/2025,Email,james.underhill@ellertontimber.co.uk,Billing dispute,Negative,Yes,2
+SVC-30015,2025-06-24,Chat,Umberside Forge Holdings,Onboarding query,Neutral,Yes,4
+SVC-30714,2025-06-11,Email,nadia.underhill@zephyrrestaura.co.uk,Billing dispute,Negative,Yes,1
+SVC-30372,31/10/2025,Chat,Ironbridge Optics Ltd,HHD data access,Negative,Yes,4
+SVC-30649,16/05/2025,Email,holly.sutton@westclifftanni.co.uk,Payment failed,Negative,Yes,
+SVC-30680,2026-05-01,Email,Eastbrook Bakehouse Limited,Complaint - response time,Neutral,No,
+SVC-30265,2025-05-10,Chat,stefan.ellison@riverbankretai.co.uk,Payment failed,Negative,Yes,
+SVC-30082,17/03/2025,Phone,lucy.brooke@wrenfieldseafo.co.uk,Contract copy request,Positive,Yes,
+SVC-30804,13/07/2026,Email,dev.sutton@ironbridgephar.co.uk,Onboarding query,Positive,Yes,
+SVC-30270,2026-03-18,Email,ben.patel@silverbeckrest.co.uk,Complaint - response time,Negative,No,
+SVC-30533,2026-07-01,Email,Whitethorn Distillery Limited,Contract copy request,Neutral,Yes,
+SVC-30184,2025-12-19,Phone,Harborne Logistics,Portal login issue,Neutral,Yes,2
+SVC-30788,12/02/2026,Email,Fernhill Plastics Ltd,Portal login issue,Negative,Yes,
+SVC-30185,2025-10-16,Chat,Bexley Roofing Partners,Praise - support experience,Positive,Yes,
+SVC-30499,2025-06-25,Chat,grace.osei@tanfieldcoachw.co.uk,Praise - support experience,Positive,Yes,
+SVC-30248,21/03/2026,Phone,Saltmarsh Data Rooms Ltd,Praise - support experience,Positive,Yes,5
+SVC-30693,21/01/2026,Email,Lighthouse Upholstery Partners,Contract copy request,Negative,Yes,4
+SVC-30529,28/06/2026,Chat,Pemberley Care Ltd,Onboarding query,Negative,No,2
+SVC-30167,2026-08-24,Email,sanjay.voss@violettabakeho.co.uk,Complaint - response time,Negative,Yes,2
+SVC-30250,2025-08-08,Chat,Cobalt Fabrications Ltd,Renewal question,Positive,Yes,
+SVC-30496,06/12/2025,Chat,Bramble Joinery Group,Praise - support experience,Positive,No,5
+SVC-30383,2025-10-17,Email,ben.keane@oakhurstchandl.co.uk,Billing dispute,Negative,Yes,3
+SVC-30357,25/07/2026,Chat,iona.whitfield@halewoodfabric.co.uk,Contract copy request,Neutral,Yes,4
+SVC-30080,26/08/2026,Email,Lighthouse Laundry,Portal login issue,Negative,No,3
+SVC-30016,06/08/2026,Email,holly.osei@kestrelnurseri.co.uk,Praise - support experience,Positive,Yes,3
+SVC-30177,17/06/2025,Email,james.brooke@fernhillroboti.co.uk,Praise - support experience,Positive,Yes,5
+SVC-30234,2026-05-11,Email,Exmoor Pharmacy Ltd,Complaint - response time,Neutral,Yes,3
+SVC-30521,29/06/2026,Chat,rhys.ferris@larkspurcoldst.co.uk,Onboarding query,Negative,No,5
+SVC-30354,2026-03-19,Email,james.vance@halewoodfarmfo.co.uk,Contract copy request,Neutral,Yes,
+SVC-30168,2025-06-30,Phone,Ashcombe Dairy Holdings,Meter read query,Positive,Yes,4
+SVC-30742,2025-04-20,Email,Nettlebed Ice Cream & Sons,HHD data access,Negative,Yes,
+SVC-30225,11/03/2026,Email,Padstow Textiles,Payment failed,Negative,Yes,1
+SVC-30562,21/04/2025,Email,Millpond Breweries Group,HHD data access,Neutral,Yes,
+SVC-30029,30/08/2025,Chat,peter.chowdhury@bexleygalvanis.co.uk,HHD data access,Neutral,Yes,
+SVC-30083,2025-05-08,Email,tom.hansen@harbornefabric.co.uk,Payment failed,Neutral,Yes,3
+SVC-30100,04/06/2026,Email,james.vance@quaysidefarmfo.co.uk,Praise - support experience,Positive,No,
+SVC-30333,2026-04-11,Email,fatima.hale@violettasalvag.co.uk,Onboarding query,Positive,Yes,
+SVC-30591,22/01/2026,Email,megan.lomax@westcliffcinem.co.uk,Portal login issue,Neutral,Yes,5
+SVC-30019,2025-07-03,Email,Ellerton Precision Holdings,Praise - support experience,Positive,No,3
+SVC-30422,2026-02-26,Email,stefan.iqbal@ironbridgenurs.co.uk,Meter read query,Neutral,Yes,
+SVC-30503,07/08/2026,Email,Ivybridge Padel,Praise - support experience,Positive,No,4
+SVC-30451,08/07/2025,Email,Summerton Catering Ltd,HHD data access,Neutral,No,5
+SVC-30044,16/08/2025,Email,dev.mercer@exmoorcoldstor.co.uk,Praise - support experience,Positive,Yes,3
+SVC-30477,22/07/2026,Email,Umberside Breweries Holdings,Billing dispute,Neutral,Yes,2
+SVC-30070,14/09/2025,Email,tara.sutton@farrierrobotic.co.uk,HHD data access,Negative,Yes,
+SVC-30478,21/10/2025,Email,Ashcombe Ice Cream Holdings,Onboarding query,Neutral,Yes,4
+SVC-30367,2025-08-11,Email,ewan.reid@lowtherplastic.co.uk,Renewal question,Positive,Yes,
+SVC-30464,24/03/2026,Email,Gilded Schools Holdings,Contract copy request,Positive,No,5
+SVC-30745,2026-06-17,Chat,fatima.bright@hatherleyhotel.co.uk,Payment failed,Negative,Yes,2
+SVC-30005,2025-04-27,Email,omar.wren@kelbrookcoldst.co.uk,Payment failed,Negative,Yes,
+SVC-30510,05/06/2026,Email,sanjay.jennings@ravenscarkenne.co.uk,Renewal question,Neutral,Yes,
+SVC-30715,2025-10-05,Email,Zephyr Restaurants Co,Meter read query,Neutral,No,5
+SVC-30072,2026-05-24,Email,craig.marsh@wrenfieldlogis.co.uk,Billing dispute,Neutral,Yes,2
+SVC-30540,06/12/2025,Email,rhys.okafor@oakhurstsalvag.co.uk,Contract copy request,Negative,Yes,5
+SVC-30401,18/01/2026,Email,anita.whitfield@riverbankforge.co.uk,Meter read query,Positive,Yes,
+SVC-30492,2026-03-22,Email,marcus.marsh@kelbrookroboti.co.uk,Meter read query,Neutral,Yes,
+SVC-30190,08/06/2026,Chat,peter.bright@summertonjoine.co.uk,Payment failed,Negative,Yes,4
+SVC-30621,26/04/2026,Email,Hatherley Breweries (UK) Ltd,Renewal question,Positive,Yes,
+SVC-30675,27/12/2025,Email,sanjay.lomax@applegarthmalt.co.uk,Meter read query,Neutral,No,4
+SVC-30149,18/05/2026,Email,Westcliff Packaging Partners,Complaint - response time,Neutral,Yes,2
+SVC-30736,2025-07-03,Chat,Umberside Upholstery Holdings,Praise - support experience,Positive,Yes,3
+SVC-30819,2026-07-16,Phone,Cedar Kennels Limited,Billing dispute,Negative,No,1
+SVC-30263,25/06/2026,Chat,Larkspur Fabrications Group,Onboarding query,Neutral,Yes,
+SVC-30137,2025-07-08,Phone,rhys.nowak@zephyrbookbind.co.uk,Praise - support experience,Positive,Yes,4
+SVC-30781,07/01/2026,Email,Silverbeck Marine Ltd,Contract copy request,Negative,No,4
+SVC-30052,12/06/2025,Email,ben.marsh@jarrowdairy.co.uk,Complaint - response time,Neutral,Yes,
+SVC-30550,20/04/2026,Chat,james.ferris@cobaltcare.co.uk,Praise - support experience,Positive,Yes,3
+SVC-30132,2026-02-12,Email,Umberside Timber Limited,Renewal question,Negative,Yes,5
+SVC-30450,2026-03-03,Chat,jack.kaur@kestrelpharmac.co.uk,Renewal question,Negative,Yes,5
+SVC-30828,26/10/2025,Chat,Bexley Offices Ltd,Onboarding query,Neutral,Yes,5
+SVC-30340,2026-03-10,Email,noel.bright@millpondseafoo.co.uk,Renewal question,Positive,Yes,5
+SVC-30258,22/05/2025,Chat,Bramble Care Group,Complaint - response time,Negative,No,
+SVC-30036,06/07/2025,Email,Quayside Joinery Ltd,HHD data access,Neutral,No,4
+SVC-30115,14/04/2026,Email,Quayside Textiles Co,Payment failed,Negative,No,
+SVC-30274,10/04/2025,Chat,Verity Kennels Holdings,Billing dispute,Neutral,Yes,3
+SVC-30599,2025-12-30,Email,Elmwood Marine Ltd,Billing dispute,Negative,No,2
+SVC-30049,2025-06-27,Chat,ben.kaur@hollybushicecr.co.uk,Onboarding query,Negative,Yes,3
+SVC-30818,30/04/2026,Email,Orchard Retail (UK) Ltd,Billing dispute,Negative,Yes,2
+SVC-30118,2026-06-25,Email,Birchmoor Logistics (UK) Ltd,Portal login issue,Positive,Yes,
+SVC-30129,2025-08-12,Email,james.macleod@ironbridgephar.co.uk,Contract copy request,Neutral,No,4
+SVC-30506,2026-01-24,Chat,Quarrington Aggregates Holdings,Meter read query,Positive,Yes,4
+SVC-30305,17/06/2025,Email,Ashcombe Maltings Limited,Renewal question,Neutral,No,3
+SVC-30652,03/07/2025,Phone,rhys.ellison@westcliffoffic.co.uk,Billing dispute,Negative,Yes,3
+SVC-30833,21/04/2025,Phone,Westcliff Recycling & Sons,Payment failed,Negative,Yes,2
+SVC-30214,04/10/2025,Chat,Langmere Nurseries Group,Contract copy request,Negative,Yes,4
+SVC-30122,2026-08-14,Chat,tara.underhill@quaysidetannin.co.uk,Praise - support experience,Positive,No,
+SVC-30384,07/03/2026,Chat,Westcliff Timber Co,Billing dispute,Negative,Yes,2
+SVC-30625,2026-03-26,Email,aisha.sutton@silverbeckcoac.co.uk,Meter read query,Neutral,Yes,3
+SVC-30199,2026-01-21,Email,Eastbrook Marine (UK) Ltd,Onboarding query,Negative,Yes,3
+SVC-30717,2026-02-18,Chat,nadia.sharpe@ullswatercolds.co.uk,Praise - support experience,Positive,No,
+SVC-30392,2026-02-03,Phone,rhys.patel@saltmarshcolds.co.uk,Billing dispute,Negative,Yes,
+SVC-30078,29/04/2026,Email,Lighthouse Laundry,Billing dispute,Neutral,Yes,
+SVC-30522,2025-08-03,Chat,tom.brooke@applegarthfarm.co.uk,Meter read query,Neutral,No,3
+SVC-30767,2025-07-01,Email,peter.hale@hollybushplast.co.uk,Renewal question,Neutral,No,3
+SVC-30633,2026-06-10,Email,aisha.brooke@yewtreeupholst.co.uk,Praise - support experience,Positive,No,5
+SVC-30222,19/05/2025,Email,Garwood Aquatics & Sons,Praise - support experience,Positive,Yes,4
+SVC-30713,19/07/2025,Phone,nadia.underhill@zephyrrestaura.co.uk,Complaint - response time,Negative,No,3
+SVC-30603,2026-07-18,Chat,Exmoor Kennels Ltd,Renewal question,Neutral,No,4
+SVC-30020,2025-10-03,Email,Ashcombe Ice Cream (UK) Ltd,Billing dispute,Negative,Yes,2
+SVC-30590,08/04/2025,Phone,Caldwell Studios Holdings,Praise - support experience,Positive,Yes,
+SVC-30604,18/07/2025,Phone,emily.hale@maplinroofing.co.uk,Payment failed,Negative,Yes,3
+SVC-30069,2025-09-27,Email,Oakhurst Garden Ltd,Payment failed,Negative,Yes,2
+SVC-30123,2026-03-05,Email,peter.bright@eastbrookoffic.co.uk,Onboarding query,Negative,Yes,
+SVC-30525,2025-07-16,Email,Oakhurst Data Rooms Limited,Meter read query,Neutral,Yes,
+SVC-30608,2026-05-24,Email,dev.whitfield@langmerepackag.co.uk,Payment failed,Neutral,Yes,1
+SVC-30627,2025-12-10,Email,tom.osei@orchardsalvage.co.uk,Praise - support experience,Positive,No,4
+SVC-30396,2026-04-07,Email,lewis.keane@northgatedatar.co.uk,Payment failed,Negative,No,1
+SVC-30570,19/11/2025,Chat,Lighthouse Garden & Sons,Payment failed,Negative,Yes,2
+SVC-30194,2026-08-28,Email,Redwing Print Limited,Payment failed,Neutral,Yes,3
+SVC-30809,2026-08-12,Email,sarah.hansen@yarrowmilling.co.uk,Payment failed,Negative,Yes,1
+SVC-30691,23/08/2025,Email,kirsty.nairn@halewoodjoiner.co.uk,Billing dispute,Negative,No,2
+SVC-30244,2025-10-28,Chat,nadia.macleod@kingsmeadtimbe.co.uk,Complaint - response time,Negative,Yes,
+SVC-30426,15/07/2026,Chat,Bramble Optics Limited,Complaint - response time,Neutral,Yes,3
+SVC-30094,01/11/2025,Email,amber.marsh@selworthymalti.co.uk,Meter read query,Positive,Yes,4
+SVC-30050,2026-04-26,Chat,Umberside Data Rooms Ltd,Renewal question,Neutral,No,3
+SVC-30246,2026-06-27,Chat,Ravenscar Textiles Group,Renewal question,Positive,Yes,
+SVC-30443,2025-03-12,Phone,ben.reid@queningtongalv.co.uk,Complaint - response time,Negative,Yes,2
+SVC-30786,13/07/2026,Chat,Atlas Farm Foods Co,Contract copy request,Negative,Yes,4
+SVC-30630,16/08/2025,Email,Saltmarsh Coachworks Ltd,Onboarding query,Positive,No,4
+SVC-30292,2025-03-12,Email,Elmwood Upholstery & Sons,Praise - support experience,Positive,Yes,4
+SVC-30647,2026-02-03,Phone,tom.mercer@harbornepadel.co.uk,Praise - support experience,Positive,Yes,2
+SVC-30063,2025-09-10,Email,zara.okafor@selworthydisti.co.uk,Renewal question,Neutral,No,2
+SVC-30314,19/08/2025,Email,Marlow Precision,Billing dispute,Negative,Yes,1
+SVC-30740,2026-02-22,Email,Cedar Care (UK) Ltd,Praise - support experience,Positive,Yes,4
+SVC-30639,01/04/2026,Email,Ottershaw Foundry & Sons,HHD data access,Neutral,No,
+SVC-30352,20/06/2025,Email,tara.chowdhury@birchmoorschoo.co.uk,Billing dispute,Negative,Yes,2
+SVC-30207,2026-06-22,Phone,Ellerton Breweries Ltd,Praise - support experience,Positive,No,4
+SVC-30487,10/06/2025,Email,tom.nairn@tanfielddataro.co.uk,Payment failed,Negative,Yes,3
+SVC-30116,26/07/2026,Email,Kingsmead Plastics Holdings,Praise - support experience,Positive,Yes,5
+SVC-30756,2025-04-14,Chat,Ellerton Coachworks Group,Payment failed,Negative,No,1
+SVC-30373,2025-05-03,Email,Ironbridge Optics Ltd,Portal login issue,Neutral,Yes,2
+SVC-30388,21/08/2025,Phone,lewis.hale@harborneglassw.co.uk,Billing dispute,Neutral,No,3
+SVC-30494,31/10/2025,Phone,Ellerton Milling Ltd,Praise - support experience,Positive,Yes,5
+SVC-30089,2025-04-30,Email,emily.ferris@garwoodgalvani.co.uk,Billing dispute,Neutral,No,2
+SVC-30148,26/09/2025,Phone,Cobalt Precision (UK) Ltd,HHD data access,Positive,Yes,2
+SVC-30037,25/10/2025,Phone,Quayside Joinery Ltd,Praise - support experience,Positive,Yes,5
+SVC-30058,2025-10-02,Email,Larkspur Retail Ltd,Renewal question,Neutral,Yes,5
+SVC-30507,24/12/2025,Email,paula.brooke@quaysidetimber.co.uk,Billing dispute,Negative,Yes,
+SVC-30645,12/07/2026,Phone,lucy.lomax@nettlebedseafo.co.uk,Renewal question,Positive,Yes,
+SVC-30024,08/12/2025,Phone,Tanfield Robotics Co,Meter read query,Neutral,Yes,
+SVC-30399,2025-04-17,Phone,Ingleby Retail Ltd,Complaint - response time,Negative,Yes,
+SVC-30284,2025-06-11,Chat,aisha.ogden@bluewaterrecyc.co.uk,Complaint - response time,Negative,Yes,
+SVC-30371,2026-08-08,Chat,Exmoor Hotels Limited,Praise - support experience,Positive,No,
+SVC-30472,02/08/2025,Phone,Ivybridge Pharmacy,Renewal question,Neutral,No,
+SVC-30502,2025-11-16,Email,Ivybridge Padel,Portal login issue,Positive,No,
+SVC-30584,22/04/2026,Phone,Thackery Distillery Ltd,Billing dispute,Neutral,Yes,1
+SVC-30235,06/01/2026,Chat,iona.patel@zetlandcinemas.co.uk,Portal login issue,Neutral,Yes,4
+SVC-30158,04/04/2026,Chat,Quenington Galvanising Ltd,Payment failed,Neutral,Yes,
+SVC-30428,2025-12-17,Chat,Quayside Distillery Group,Billing dispute,Negative,Yes,2
+SVC-30594,2025-03-27,Chat,kirsty.macleod@northgatehotel.co.uk,Meter read query,Neutral,Yes,
+SVC-30155,2026-08-26,Chat,james.quinn@atlasnurseries.co.uk,Contract copy request,Positive,Yes,5
+SVC-30266,2025-12-11,Email,Marlow Joinery & Sons,Portal login issue,Neutral,Yes,5
+SVC-30382,07/02/2026,Email,Kelbrook Motors,Contract copy request,Neutral,Yes,3
+SVC-30257,2025-10-27,Email,Kingsmead Optics & Sons,Onboarding query,Negative,Yes,
+SVC-30453,2025-10-13,Chat,Langmere Robotics & Sons,Payment failed,Negative,Yes,1
+SVC-30378,20/03/2026,Phone,Riverbank Chandlery (UK) Ltd,Praise - support experience,Positive,Yes,
+SVC-30006,05/07/2026,Chat,ryan.brooke@ironbridgehote.co.uk,Onboarding query,Positive,Yes,4
+SVC-30563,2026-07-08,Email,rhys.yates@millpondbrewer.co.uk,Portal login issue,Negative,Yes,3
+SVC-30817,31/03/2026,Email,Vantage Seafoods (UK) Ltd,Payment failed,Neutral,No,1
+SVC-30431,16/08/2026,Email,jack.whitfield@ottershawbookb.co.uk,Complaint - response time,Negative,No,2
+SVC-30488,2026-04-25,Chat,Rosedale Salvage (UK) Ltd,Meter read query,Neutral,Yes,
+SVC-30041,02/10/2025,Chat,Harborne Chandlery (UK) Ltd,Meter read query,Positive,No,
+SVC-30711,2026-05-04,Chat,Kingsmead Cold Storage Ltd,Praise - support experience,Positive,Yes,
+SVC-30597,2025-08-15,Chat,Elmwood Marine Ltd,Praise - support experience,Positive,No,4
+SVC-30175,2025-09-09,Email,ben.voss@jarrowoffices.co.uk,Praise - support experience,Positive,Yes,4
+SVC-30361,2026-02-20,Email,marcus.reid@pennineoffices.co.uk,Payment failed,Negative,Yes,
+SVC-30690,2026-01-26,Email,Verity Garden Group,Billing dispute,Negative,No,3
+SVC-30628,02/10/2025,Chat,craig.quinn@ashcombegym.co.uk,Complaint - response time,Neutral,Yes,1
+SVC-30183,2026-04-10,Phone,Silverbeck Fabrications Partners,Meter read query,Neutral,Yes,
+SVC-30574,2026-04-03,Chat,Lowther Laundry Partners,Billing dispute,Negative,Yes,3
+SVC-30803,2026-07-14,Email,ryan.underhill@summertonleisu.co.uk,Contract copy request,Positive,Yes,3
+SVC-30196,2025-05-21,Email,Ravenscar Garden Ltd,Praise - support experience,Positive,No,5
+SVC-30829,04/12/2025,Chat,tara.macleod@ivybridgedatar.co.uk,Payment failed,Neutral,No,
+SVC-30366,15/02/2026,Email,Halewood Textiles Ltd,Meter read query,Negative,No,
+SVC-30166,21/07/2025,Email,tom.lomax@denholmlogisti.co.uk,Payment failed,Neutral,Yes,2
+SVC-30095,2025-06-15,Chat,iona.osei@inglebyfarmfoo.co.uk,Praise - support experience,Positive,Yes,
+SVC-30702,08/10/2025,Chat,priya.tate@tanfieldrecycl.co.uk,Payment failed,Negative,Yes,2
+SVC-30224,29/08/2026,Chat,Ottershaw Print Co,Billing dispute,Negative,Yes,2
+SVC-30579,2025-12-08,Chat,sarah.ferris@cedarcoachwork.co.uk,HHD data access,Positive,Yes,
+SVC-30092,05/07/2025,Chat,Larkspur Salvage Partners,Billing dispute,Negative,Yes,4
+SVC-30832,08/04/2026,Email,ben.ellison@torqueaquatics.co.uk,Praise - support experience,Positive,No,3
+SVC-30276,2025-08-09,Email,Quarrington Catering Ltd,Portal login issue,Negative,Yes,5
+SVC-30300,2025-11-16,Email,anita.nowak@westclifffarmf.co.uk,Billing dispute,Negative,Yes,
+SVC-30245,2026-07-12,Email,Kingsmead Timber,Praise - support experience,Positive,Yes,
+SVC-30211,26/05/2026,Email,Umberside Engineering Holdings,Payment failed,Negative,Yes,2
+SVC-30285,22/07/2026,Phone,peter.sutton@ullswatersalva.co.uk,Renewal question,Negative,Yes,
+SVC-30035,2026-05-07,Email,nadia.pryce@hollybushbakeh.co.uk,Payment failed,Negative,No,3
+SVC-30307,2026-04-25,Email,ewan.grady@foxglovefoundr.co.uk,Complaint - response time,Neutral,No,1
+SVC-30040,06/03/2026,Email,ryan.voss@harbornechandl.co.uk,Billing dispute,Negative,No,3
+SVC-30802,2026-02-15,Phone,Jarrow Bakehouse Limited,Onboarding query,Neutral,Yes,
+SVC-30096,2026-04-15,Email,Ingleby Care Co,Meter read query,Positive,Yes,5
+SVC-30610,2025-11-18,Email,james.iqbal@whitethornpade.co.uk,Payment failed,Negative,Yes,2
+SVC-30030,2025-07-16,Email,peter.chowdhury@bexleygalvanis.co.uk,Portal login issue,Neutral,Yes,4
+SVC-30831,27/10/2025,Email,ben.ellison@torqueaquatics.co.uk,Meter read query,Positive,Yes,
+SVC-30228,2026-07-20,Chat,Ashcombe Packaging Partners,Renewal question,Negative,No,3
+SVC-30238,2026-02-15,Chat,Langmere Recycling Ltd,Portal login issue,Neutral,Yes,4
+SVC-30613,2026-08-04,Phone,Zetland Maltings Partners,HHD data access,Positive,Yes,5
+SVC-30156,2026-05-10,Email,holly.sutton@umbersidefarmf.co.uk,Contract copy request,Neutral,Yes,5
+SVC-30161,22/10/2025,Email,Jespersen Dairy Ltd,Praise - support experience,Positive,Yes,3
+SVC-30539,03/04/2026,Email,paula.quinn@brambleaggrega.co.uk,Payment failed,Neutral,Yes,
+SVC-30241,28/03/2026,Email,Bluewater Galvanising Holdings,Payment failed,Negative,No,3
+SVC-30752,2025-11-25,Phone,Wrenfield Engineering,Complaint - response time,Neutral,Yes,
+SVC-30033,19/07/2025,Phone,Lighthouse Aquatics Ltd,Portal login issue,Neutral,Yes,5
+SVC-30407,2025-11-05,Email,Whitethorn Cinemas,Praise - support experience,Positive,No,3
+SVC-30176,08/06/2026,Email,Whitethorn Recycling Ltd,Payment failed,Negative,Yes,
+SVC-30458,13/08/2026,Email,Eastbrook Farm Foods,Praise - support experience,Positive,Yes,5
+SVC-30325,2025-08-24,Chat,Caldwell Marine Co,Payment failed,Negative,Yes,
+SVC-30644,11/04/2025,Chat,gareth.osei@millpondpackag.co.uk,Praise - support experience,Positive,No,5
+SVC-30271,2025-10-17,Email,Selworthy Restaurants,Meter read query,Neutral,Yes,5
+SVC-30523,2025-05-13,Email,Kelbrook Optics (UK) Ltd,Contract copy request,Negative,Yes,
+SVC-30012,11/03/2025,Chat,Jespersen Schools,Billing dispute,Neutral,Yes,2
+SVC-30172,2025-06-13,Email,ben.yates@kingsmeadicecr.co.uk,Billing dispute,Negative,Yes,4
+SVC-30775,2025-10-19,Phone,Torque Joinery Group,Portal login issue,Negative,Yes,4
+SVC-30004,22/12/2025,Chat,lewis.brooke@jarrowrestaura.co.uk,Billing dispute,Negative,No,
+SVC-30200,2026-03-13,Email,callum.ellison@penninelaundry.co.uk,Complaint - response time,Neutral,No,1
+SVC-30179,2025-10-14,Chat,aisha.hansen@hollybushoffic.co.uk,Praise - support experience,Positive,Yes,
+SVC-30581,31/05/2026,Email,kirsty.mercer@saltmarshresta.co.uk,Meter read query,Neutral,Yes,4
+SVC-30491,2025-03-19,Phone,stefan.whitfield@lighthouselaun.co.uk,Praise - support experience,Positive,No,5
+SVC-30611,2026-03-02,Chat,Hollybush Dairy Ltd,Praise - support experience,Positive,Yes,
+SVC-30515,2026-05-11,Chat,Quayside Farm Foods Group,Payment failed,Negative,No,3
+SVC-30572,22/03/2026,Phone,Riverbank Pharmacy & Sons,Contract copy request,Neutral,Yes,4
+SVC-30208,10/06/2025,Email,gareth.voss@harborneveteri.co.uk,Contract copy request,Neutral,No,
+SVC-30520,2025-12-22,Phone,Westcliff Padel (UK) Ltd,Meter read query,Negative,No,
+SVC-30526,2025-10-11,Chat,zara.pryce@harborneprint.co.uk,Contract copy request,Positive,No,
+SVC-30281,2026-08-23,Phone,Merrivale Coachworks Ltd,Payment failed,Neutral,No,
+SVC-30656,2025-08-15,Chat,Saltmarsh Farm Foods Limited,Portal login issue,Positive,Yes,5
+SVC-30734,17/04/2025,Chat,Exmoor Engineering & Sons,Billing dispute,Neutral,Yes,1
+SVC-30764,2025-06-08,Chat,Bexley Galvanising Ltd,Payment failed,Negative,Yes,
+SVC-30251,2025-03-24,Phone,marcus.bright@saltmarshhotel.co.uk,Billing dispute,Negative,Yes,
+SVC-30178,05/07/2025,Email,noel.yates@torquemotors.co.uk,Billing dispute,Negative,Yes,
+SVC-30474,2026-08-26,Email,Lowther Packaging Limited,Complaint - response time,Neutral,Yes,
+SVC-30403,2025-10-05,Chat,Ivybridge Chandlery Ltd,Complaint - response time,Neutral,Yes,
+SVC-30498,2026-05-04,Chat,Tanfield Coachworks (UK) Ltd,HHD data access,Positive,Yes,
+SVC-30377,2025-10-31,Phone,ben.iqbal@gildedoptics.co.uk,Billing dispute,Neutral,Yes,3
+SVC-30573,2026-07-26,Email,Fernhill Pharmacy (UK) Ltd,Payment failed,Negative,Yes,
+SVC-30146,2025-04-08,Phone,holly.brooke@wrenfieldpreci.co.uk,HHD data access,Positive,Yes,4
+SVC-30131,2025-03-15,Email,emily.voss@umbersidetimbe.co.uk,Praise - support experience,Positive,No,3
+SVC-30290,01/03/2026,Email,Northgate Distillery Ltd,Payment failed,Negative,Yes,
+SVC-30413,14/03/2025,Phone,lucy.nowak@orchardsalvage.co.uk,Billing dispute,Neutral,No,
+SVC-30455,2025-10-01,Phone,holly.pryce@millpondgym.co.uk,Billing dispute,Neutral,Yes,
+SVC-30638,2026-06-08,Email,Larkspur Scaffolding Ltd,Billing dispute,Negative,Yes,3
+SVC-30048,2025-06-24,Email,Padstow Data Rooms Ltd,Portal login issue,Neutral,Yes,4
