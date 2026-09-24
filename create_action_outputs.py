@@ -74,7 +74,7 @@ def create_downstream_outputs(register_path, raw_data_dir, output_dir):
 
 if __name__ == "__main__":
     create_downstream_outputs(
-        register_path='output/decision_register.csv',
+        register_path='./outputs/decision_register.csv',
         raw_data_dir='./raw_data',
-        output_dir='output'
+        output_dir='./outputs'
     )
