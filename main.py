@@ -27,8 +27,8 @@ def clean_name(name):
     if pd.isna(name):
         return ""
     name = str(name).lower().strip()
-    name = re.sub(r'\\b(ltd|limited|plc|co|corp|inc|gmbh|uk|holding|holdings)\\b', '', name)
-    name = re.sub(r'[^a-z0-9\\s]', '', name)
+    name = re.sub(r'\b(ltd|limited|plc|co|corp|inc|gmbh|uk|holding|holdings)\b', '', name)
+    name = re.sub(r'[^a-z0-9\s]', '', name)
     return " ".join(name.split())
 
 def normalize_email(email):
@@ -50,18 +50,16 @@ def run_pipeline(input_dir, output_dir, as_of_date_str, run_id):
     connector = CSVConnector(input_dir)
 
     # Ingest source tables
-    brokers_df = connector.read_table('brokers.csv')
     cust_df = connector.read_table('customers.csv')
     sites_df = connector.read_table('sites_contracts.csv')
     quotes_df = connector.read_table('renewal_quotes.csv')
     service_df = connector.read_table('service_contacts.csv')
     nps_df = connector.read_table('nps_responses.csv')
-    crm_df = connector.read_table('crm_entries.csv')
 
     # Standardize data quality validations & metrics
-    sites_df['mpan_clean'] = sites_df['mpan'].astype(str).str.replace(r'\\D', '', regex=True)
+    sites_df['mpan_clean'] = sites_df['mpan'].astype(str).str.replace(r'\D', '', regex=True)
     sites_df['is_mpan_valid'] = sites_df['mpan_clean'].str.len() == 13
-    quotes_df['mpan_clean'] = quotes_df['mpan'].astype(str).str.replace(r'\\D', '', regex=True)
+    quotes_df['mpan_clean'] = quotes_df['mpan'].astype(str).str.replace(r'\D', '', regex=True)
 
     total_mpans = len(sites_df)
     invalid_mpan_count = int((~sites_df['is_mpan_valid']).sum())
@@ -133,8 +131,9 @@ def run_pipeline(input_dir, output_dir, as_of_date_str, run_id):
 
     final_decision_register = predictive_df.merge(cust_renewal_info, on='account_ref', how='left')
 
-    # --- START OF CHANGE: Incorporate 'Likely to Sign' logic ---
+    # Incorporate "Likely to Sign" promotion logic
     final_decision_register['standard_renewal_scope'] = final_decision_register['min_days_to_renewal'] <= 90
+    final_decision_register['avg_nps'] = final_decision_register['avg_nps'].fillna(0)
 
     final_decision_register['likely_to_sign_trigger'] = (
         (final_decision_register['avg_nps'] >= 8) &
@@ -142,13 +141,14 @@ def run_pipeline(input_dir, output_dir, as_of_date_str, run_id):
         (~final_decision_register['has_invalid_mpan'])
     )
 
+    # Define operational 'in_renewal_scope' using standard window or promoted promoters
     final_decision_register['in_renewal_scope'] = final_decision_register['standard_renewal_scope'] | final_decision_register['likely_to_sign_trigger']
-    # --- END OF CHANGE ---
 
     def determine_action(row):
-        # Use the updated 'in_renewal_scope'
+        # 1. If NOT in renewal scope (standard or promoted), route appropriately
         if not row['in_renewal_scope']:
             return 'nurture' if row['is_high_risk'] else 'no action'
+        # 2. If inside renewal scope, verify data completeness & risk thresholds
         if row['is_high_risk'] or row['has_invalid_mpan']:
             return 'human review'
         return 'auto-attempt'
