@@ -1,0 +1,48 @@
+name: Run Customer Matching Pipeline
+
+on:
+  workflow_dispatch:
+    inputs:
+      run_id:
+        description: 'Unique execution identifier run_id'
+        required: true
+        default: 'RUN-N8N-DEFAULT'
+      as_of_date:
+        description: 'Reference timeline as-of date (YYYY-MM-DD)'
+        required: true
+        default: '2026-09-01'
+      input_mode:
+        description: 'Where input files are loaded from'
+        required: false
+        default: 'csv_repository_fixtures'
+
+jobs:
+  execute-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install Core Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas numpy
+
+    - name: Run Matching CLI Engine
+      run: |
+        python main.py --input-dir ./data --output-dir ./outputs --as-of-date "${{ github.event.inputs.as_of_date }}" --run-id "${{ github.event.inputs.run_id }}"
+
+    - name: Upload Output Artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: execution-results-${{ github.event.inputs.run_id }}
+        path: |
+          ./outputs/decision_register.csv
+          ./outputs/match_exceptions.csv
+          ./outputs/data_quality_report.json
+          ./outputs/run_summary.json
