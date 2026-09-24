@@ -37,8 +37,7 @@ jobs:
       run: |
         python main.py --input-dir ./data --output-dir ./outputs --as-of-date "${{ github.event.inputs.as_of_date }}" --run-id "${{ github.event.inputs.run_id }}"
 
-    - name: Generate action outputs
-      run: python create_action_outputs.py
+
     
     - name: Upload Output Artifacts
       uses: actions/upload-artifact@v4
