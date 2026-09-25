@@ -15,6 +15,10 @@ on:
         description: 'Where input files are loaded from'
         required: false
         default: 'csv_repository_fixtures'
+      callback_url:
+        description: 'n8n Webhook / Resume URL'
+        required: false
+        default: ''
 
 jobs:
   execute-pipeline:
@@ -37,8 +41,6 @@ jobs:
       run: |
         python main.py --input-dir ./data --output-dir ./outputs --as-of-date "${{ github.event.inputs.as_of_date }}" --run-id "${{ github.event.inputs.run_id }}"
 
-
-    
     - name: Upload Output Artifacts
       uses: actions/upload-artifact@v4
       with:
@@ -48,3 +50,10 @@ jobs:
           ./outputs/match_exceptions.csv
           ./outputs/data_quality_report.json
           ./outputs/run_summary.json
+
+    - name: Send Decision Register Directly to n8n
+      if: github.event.inputs.callback_url != ''
+      run: |
+        curl -X POST "${{ github.event.inputs.callback_url }}" \
+          -H "Content-Type: text/csv" \
+          --data-binary @outputs/decision_register.csv
